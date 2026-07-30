@@ -1,0 +1,28 @@
+{
+  "entity_id": "org-startuprad-io",
+  "entity_type": "Organization",
+  "schema_org_type": "MediaOrganization",
+  "canonical_name": "Startuprad.io",
+  "short_description": "Independent English-language startup and technology publication and podcast network focused on Germany, Austria, Switzerland, and the wider European startup ecosystem.",
+  "aliases": ["STARTUPRAD.IO"],
+  "country": "Germany",
+  "operating_base": "Frankfurt Rhine-Main, Germany",
+  "geographic_scope": ["Germany", "Austria", "Switzerland", "Europe"],
+  "broad_topics": ["startups", "venture capital", "technology", "innovation", "European startup intelligence"],
+  "canonical_url": "https://www.startuprad.io/entities/startuprad.io",
+  "preferred_citation_url": "https://www.startuprad.io/entities/startuprad.io",
+  "selected_public_relationships": ["operates startup.radio"],
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/startuprad.io",
+    "https://www.startuprad.io/llm"
+  ],
+  "last_reviewed": "2026-07-30",
+  "schema_version": "0.1.0-draft"
+}
+
