@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Startupradio14/startupradio-knowledge-architecture/schemas/entity.schema.json",
+  "title": "Startuprad.io Public Level I Entity",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "entity_id",
+    "entity_type",
+    "canonical_name",
+    "short_description",
+    "canonical_url",
+    "preferred_citation_url",
+    "publication_level",
+    "publication_status",
+    "canonical_page_status",
+    "github_eligible",
+    "source_urls",
+    "last_reviewed",
+    "schema_version"
+  ],
+  "properties": {
+    "entity_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "entity_type": {
+      "type": "string",
+      "enum": ["Person", "Organization", "Company", "Publication", "Institution", "Location"]
+    },
+    "schema_org_type": {"type": "string"},
+    "canonical_name": {"type": "string", "minLength": 1},
+    "short_description": {"type": "string", "minLength": 1, "maxLength": 600},
+    "aliases": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true
+    },
+    "country": {"type": "string"},
+    "operating_base": {"type": "string"},
+    "geographic_scope": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true
+    },
+    "broad_topics": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true
+    },
+    "canonical_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://(www\\.)?(startuprad\\.io|startup\\.radio)/"
+    },
+    "preferred_citation_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://(www\\.)?(startuprad\\.io|startup\\.radio)/"
+    },
+    "listener_destination": {"type": "string", "format": "uri"},
+    "live_schedule_destination": {"type": "string", "format": "uri"},
+    "selected_coverage_urls": {
+      "type": "array",
+      "maxItems": 3,
+      "items": {"type": "string", "format": "uri"},
+      "uniqueItems": true
+    },
+    "selected_public_relationships": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true
+    },
+    "publication_level": {"const": 1},
+    "publication_status": {"const": "approved"},
+    "canonical_page_status": {"const": "live"},
+    "github_eligible": {"const": true},
+    "source_publication": {
+      "type": "string",
+      "enum": ["Startuprad.io", "startup.radio"]
+    },
+    "source_urls": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"type": "string", "format": "uri"},
+      "uniqueItems": true
+    },
+    "last_reviewed": {"type": "string", "format": "date"},
+    "schema_version": {"type": "string"}
+  }
+}
+
