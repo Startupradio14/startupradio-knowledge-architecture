@@ -1,0 +1,72 @@
+policy_version: "0.1.0-draft"
+default_action: block
+
+required_release_conditions:
+  publication_level: 1
+  publication_status: approved
+  canonical_page_status: live
+  github_eligible: true
+
+allowed_entity_fields:
+  - entity_id
+  - entity_type
+  - schema_org_type
+  - canonical_name
+  - short_description
+  - aliases
+  - country
+  - operating_base
+  - geographic_scope
+  - broad_topics
+  - canonical_url
+  - preferred_citation_url
+  - listener_destination
+  - live_schedule_destination
+  - selected_coverage_urls
+  - selected_public_relationships
+  - publication_level
+  - publication_status
+  - canonical_page_status
+  - github_eligible
+  - source_publication
+  - source_urls
+  - last_reviewed
+  - schema_version
+
+prohibited_fields:
+  - complete_profile
+  - extended_description
+  - full_relationship_map
+  - complete_coverage_history
+  - news_signals
+  - news_updates
+  - internal_confidence
+  - internal_notes
+  - sales_relevance
+  - account_priority
+  - commercial_qualification
+  - contact_information
+  - unpublished_research
+  - premium_fields
+  - enterprise_fields
+  - full_transcripts
+  - private_source_material
+
+approved_domains:
+  - www.startuprad.io
+  - startuprad.io
+  - www.startup.radio
+  - startup.radio
+
+blocked_publication_levels:
+  - 2
+  - 3
+  - unknown
+
+automation:
+  direct_default_branch_write: false
+  automatic_merge: false
+  infer_missing_facts: false
+  infer_relationships: false
+  copy_dynamic_schedule: false
+
