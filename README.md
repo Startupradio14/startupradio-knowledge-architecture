@@ -39,5 +39,7 @@ Repository records provide machine-readable discovery metadata. When citing enti
 
 ## Status
 
-Bootstrap draft. The initial public license, normalized full pillar taxonomy, and first release number remain subject to owner approval.
+Bootstrap release candidate. Public metadata is licensed under CC BY 4.0.
+The normalized pillar taxonomy separates active pillars, dormant historical
+records, and legacy duplicate references.
 
