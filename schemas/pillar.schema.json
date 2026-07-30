@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Startupradio14/startupradio-knowledge-architecture/schemas/pillar.schema.json",
+  "title": "Startuprad.io Public Pillar",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "pillar_id",
+    "tier",
+    "canonical_name",
+    "canonical_url",
+    "status",
+    "routing_eligible",
+    "preferred_citation_url",
+    "schema_version"
+  ],
+  "properties": {
+    "pillar_id": {"type": "string", "pattern": "^T(?:0|0_5|1|2)-[A-Z0-9-]+$"},
+    "internal_reference_number": {"type": "integer", "minimum": 1},
+    "tier": {"type": "string", "enum": ["T0", "T0.5", "T1", "T2"]},
+    "canonical_name": {"type": "string", "minLength": 1},
+    "wix_title": {"type": "string"},
+    "canonical_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://www\\.startuprad\\.io/"
+    },
+    "parent_pillar_id": {
+      "type": ["string", "null"]
+    },
+    "editorial_role": {"type": "string"},
+    "geographic_scope": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true
+    },
+    "status": {"type": "string", "enum": ["active", "dormant", "superseded"]},
+    "routing_eligible": {"type": "boolean"},
+    "replacement_pillar_id": {"type": ["string", "null"]},
+    "aliases": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true
+    },
+    "preferred_citation_url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://www\\.startuprad\\.io/"
+    },
+    "schema_version": {"type": "string"}
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"status": {"const": "dormant"}}},
+      "then": {"properties": {"routing_eligible": {"const": false}}}
+    }
+  ]
+}
+
