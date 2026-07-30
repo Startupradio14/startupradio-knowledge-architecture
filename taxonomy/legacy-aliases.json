@@ -1,0 +1,16 @@
+{
+  "legacy_duplicate_references": [
+    {
+      "legacy_reference_number": 55,
+      "canonical_reference_number": 1
+    },
+    {
+      "legacy_reference_number": 56,
+      "canonical_reference_number": 20
+    },
+    {
+      "legacy_reference_number": 57,
+      "canonical_reference_number": 22
+    }
+  ]
+}
