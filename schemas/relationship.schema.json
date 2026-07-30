@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Startupradio14/startupradio-knowledge-architecture/schemas/relationship.schema.json",
+  "title": "Startuprad.io Public Relationship",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "relationship_id",
+    "relationship_type",
+    "source_entity_id",
+    "target_entity_id",
+    "canonical_source_url",
+    "publication_level",
+    "publication_status",
+    "last_reviewed",
+    "schema_version"
+  ],
+  "properties": {
+    "relationship_id": {"type": "string"},
+    "relationship_type": {
+      "type": "string",
+      "enum": [
+        "founded",
+        "leads",
+        "operates",
+        "audio_layer_of",
+        "belongs_to_pillar",
+        "covered_by_startupradio",
+        "discussed_by"
+      ]
+    },
+    "source_entity_id": {"type": "string"},
+    "target_entity_id": {"type": "string"},
+    "canonical_source_url": {"type": "string", "format": "uri"},
+    "evidence_type": {"type": "string", "enum": ["canonical_entity_page", "canonical_llm_page", "approved_taxonomy"]},
+    "publication_level": {"const": 1},
+    "publication_status": {"const": "approved"},
+    "last_reviewed": {"type": "string", "format": "date"},
+    "schema_version": {"type": "string"}
+  }
+}
+
