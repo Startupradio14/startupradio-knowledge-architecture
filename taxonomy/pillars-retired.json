@@ -1,0 +1,110 @@
+[
+  {
+    "pillar_id": "T2-AI-DEEP-TECH-STARTUPS",
+    "internal_reference_number": 48,
+    "tier": "T2",
+    "canonical_name": "AI & Deep Tech Startups",
+    "canonical_url": "https://www.startuprad.io/post/ai-deep-tech-startups-europe-s-ultimate-guide",
+    "parent_pillar_id": "T1-ARTIFICIAL-INTELLIGENCE-DEEP-TECH-STARTUPS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "dormant",
+    "routing_eligible": false,
+    "preferred_citation_url": "https://www.startuprad.io/post/ai-deep-tech-startups-europe-s-ultimate-guide",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-DACH-FINTECH-TRENDS",
+    "internal_reference_number": 49,
+    "tier": "T2",
+    "canonical_name": "DACH FinTech Trends",
+    "canonical_url": "https://www.startuprad.io/post/dach-fintech-reviews-2020-2025-ai-embedded-finance-and-regulation-driving-the-next-wave",
+    "parent_pillar_id": "T1-FINTECH-REGTECH-COMPLIANCE-INNOVATION",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "dormant",
+    "routing_eligible": false,
+    "preferred_citation_url": "https://www.startuprad.io/post/dach-fintech-reviews-2020-2025-ai-embedded-finance-and-regulation-driving-the-next-wave",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-PODCAST-ADVERTISING-DACH",
+    "internal_reference_number": 50,
+    "tier": "T2",
+    "canonical_name": "Podcast Advertising DACH",
+    "canonical_url": "https://www.startuprad.io/post/podcast-advertising-in-the-dach-region-the-english-language-benchmark-startup-playbook",
+    "parent_pillar_id": "T1-PODCAST-ADVERTISING-PARTNERSHIPS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "dormant",
+    "routing_eligible": false,
+    "preferred_citation_url": "https://www.startuprad.io/post/podcast-advertising-in-the-dach-region-the-english-language-benchmark-startup-playbook",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-STATE-OF-DACH-ECOSYSTEM-2024",
+    "internal_reference_number": 52,
+    "tier": "T2",
+    "canonical_name": "State of DACH Ecosystem 2024",
+    "canonical_url": "https://www.startuprad.io/post/the-state-of-the-dach-startup-ecosystem-in-2024-trends-funding-and-innovation",
+    "parent_pillar_id": "T1-STARTUP-NEWS-MARKET-SIGNALS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "dormant",
+    "routing_eligible": false,
+    "preferred_citation_url": "https://www.startuprad.io/post/the-state-of-the-dach-startup-ecosystem-in-2024-trends-funding-and-innovation",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-DACH-STARTUP-ECOSYSTEM-2025-HUB",
+    "internal_reference_number": 53,
+    "tier": "T2",
+    "canonical_name": "DACH Startup Ecosystem 2025 Hub",
+    "canonical_url": "https://www.startuprad.io/post/dach-startup-ecosystem-2025-the-ultimate-news-hub",
+    "parent_pillar_id": "T1-STARTUP-NEWS-MARKET-SIGNALS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "dormant",
+    "routing_eligible": false,
+    "preferred_citation_url": "https://www.startuprad.io/post/dach-startup-ecosystem-2025-the-ultimate-news-hub",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-DACH-STARTUP-ECOSYSTEM-2024-BREAKTHROUGHS",
+    "internal_reference_number": 54,
+    "tier": "T2",
+    "canonical_name": "DACH Startup Ecosystem 2024 Breakthroughs",
+    "canonical_url": "https://www.startuprad.io/post/dach-startup-ecosystem-2024-trends-funding-breakthroughs",
+    "parent_pillar_id": "T1-STARTUP-NEWS-MARKET-SIGNALS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "dormant",
+    "routing_eligible": false,
+    "preferred_citation_url": "https://www.startuprad.io/post/dach-startup-ecosystem-2024-trends-funding-breakthroughs",
+    "schema_version": "0.1.0"
+  }
+]

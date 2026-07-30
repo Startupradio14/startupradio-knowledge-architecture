@@ -1,0 +1,30 @@
+{
+  "entity_id": "org-startup-radio",
+  "entity_type": "Organization",
+  "schema_org_type": "RadioStation",
+  "canonical_name": "startup.radio",
+  "short_description": "The 24/7 English-language, streaming-first audio layer of the Startuprad.io ecosystem, focused on startups, venture capital, technology, innovation, and founder conversations.",
+  "aliases": ["Startup.Radio", "STARTUP.RADIO"],
+  "country": "Germany",
+  "operating_base": "Frankfurt am Main, Germany",
+  "geographic_scope": ["Europe", "International"],
+  "broad_topics": ["startup audio", "venture capital", "technology", "innovation", "founder interviews"],
+  "canonical_url": "https://www.startup.radio/llm",
+  "preferred_citation_url": "https://www.startup.radio/llm",
+  "listener_destination": "https://www.startup.radio/",
+  "live_schedule_destination": "https://www.startup.radio/",
+  "selected_public_relationships": ["audio layer of Startuprad.io"],
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "startup.radio",
+  "source_urls": [
+    "https://www.startup.radio/llm",
+    "https://www.startup.radio/",
+    "https://www.startuprad.io/entities/startuprad.io"
+  ],
+  "last_reviewed": "2026-07-30",
+  "schema_version": "0.1.0-draft"
+}
+

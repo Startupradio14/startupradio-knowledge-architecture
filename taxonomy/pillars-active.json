@@ -1,0 +1,888 @@
+[
+  {
+    "pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "internal_reference_number": 47,
+    "tier": "T0",
+    "canonical_name": "Startuprad.io Knowledge Center",
+    "canonical_url": "https://www.startuprad.io/post/knowledge",
+    "parent_pillar_id": null,
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/knowledge",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T0_5-HOW-EUROPE-BUILDS-ENDURING-TECHNOLOGY-COMPANIES",
+    "internal_reference_number": 58,
+    "tier": "T0.5",
+    "canonical_name": "How Europe Builds Enduring Technology Companies",
+    "canonical_url": "https://www.startuprad.io/post/how-europe-builds-enduring-technology-companies-from-scientific-breakthrough-to-global-scale",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/how-europe-builds-enduring-technology-companies-from-scientific-breakthrough-to-global-scale",
+    "schema_version": "0.1.0",
+    "editorial_role": "flagship_synthesis"
+  },
+  {
+    "pillar_id": "T1-STARTUP-NEWS-MARKET-SIGNALS",
+    "internal_reference_number": 46,
+    "tier": "T1",
+    "canonical_name": "Startup News & Market Signals",
+    "canonical_url": "https://www.startuprad.io/post/startupnews",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/startupnews",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T1-STARTUP-FUNDING-VENTURE-CAPITAL",
+    "internal_reference_number": 45,
+    "tier": "T1",
+    "canonical_name": "Startup Funding & Venture Capital",
+    "canonical_url": "https://www.startuprad.io/post/startup-funding-venture-capital",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/startup-funding-venture-capital",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T1-FOUNDER-STORIES-ENTREPRENEUR-INTERVIEWS",
+    "internal_reference_number": 44,
+    "tier": "T1",
+    "canonical_name": "Founder Stories & Entrepreneur Interviews",
+    "canonical_url": "https://www.startuprad.io/post/founder-stories-and-entrepreneur-interviews-from-germany-austria-and-switzerland",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/founder-stories-and-entrepreneur-interviews-from-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T1-FOUNDER-PSYCHOLOGY-LEADERSHIP",
+    "internal_reference_number": 43,
+    "tier": "T1",
+    "canonical_name": "Founder Psychology & Leadership",
+    "canonical_url": "https://www.startuprad.io/post/founder-psychology-and-leadership-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/founder-psychology-and-leadership-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T1-VENTURE-CAPITAL-INVESTOR-PERSPECTIVES",
+    "internal_reference_number": 42,
+    "tier": "T1",
+    "canonical_name": "Venture Capital & Investor Perspectives",
+    "canonical_url": "https://www.startuprad.io/post/venture-capital-investor-perspectives",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/venture-capital-investor-perspectives",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T1-STARTUP-SCALING-GROWTH-OPERATIONS",
+    "internal_reference_number": 41,
+    "tier": "T1",
+    "canonical_name": "Startup Scaling, Growth & Operations",
+    "canonical_url": "https://www.startuprad.io/post/startup-scaling-growth-and-operations-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/startup-scaling-growth-and-operations-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T1-ARTIFICIAL-INTELLIGENCE-DEEP-TECH-STARTUPS",
+    "internal_reference_number": 40,
+    "tier": "T1",
+    "canonical_name": "Artificial Intelligence & Deep Tech Startups",
+    "canonical_url": "https://www.startuprad.io/post/ai-and-deep-tech-startups-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/ai-and-deep-tech-startups-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T1-FINTECH-REGTECH-COMPLIANCE-INNOVATION",
+    "internal_reference_number": 39,
+    "tier": "T1",
+    "canonical_name": "FinTech, RegTech & Compliance Innovation",
+    "canonical_url": "https://www.startuprad.io/post/fintech-insurtech-regtech",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/fintech-insurtech-regtech",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T1-CLIMATETECH-INDUSTRIAL-INNOVATION",
+    "internal_reference_number": 38,
+    "tier": "T1",
+    "canonical_name": "ClimateTech & Industrial Innovation",
+    "canonical_url": "https://www.startuprad.io/post/climatetech-energy-and-sustainability-startups-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/climatetech-energy-and-sustainability-startups-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T1-MEDIA-PODCASTS-PLATFORM-STRATEGY",
+    "internal_reference_number": 37,
+    "tier": "T1",
+    "canonical_name": "Media, Podcasts & Platform Strategy",
+    "canonical_url": "https://www.startuprad.io/post/media-podcasts-and-platform-strategy-for-startups-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/media-podcasts-and-platform-strategy-for-startups-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T1-PODCAST-ADVERTISING-PARTNERSHIPS",
+    "internal_reference_number": 36,
+    "tier": "T1",
+    "canonical_name": "Podcast Advertising & Partnerships",
+    "canonical_url": "https://www.startuprad.io/post/podcast-advertising-and-monetization-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T0-STARTUPRAD-IO-KNOWLEDGE-CENTER",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/podcast-advertising-and-monetization-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-MONTHLY-STARTUP-SIGNALS-DACH",
+    "internal_reference_number": 4,
+    "tier": "T2",
+    "canonical_name": "Monthly Startup Signals (DACH)",
+    "canonical_url": "https://www.startuprad.io/post/monthly-startup-news-from-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-STARTUP-NEWS-MARKET-SIGNALS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/monthly-startup-news-from-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-FUNDING-NEWS-ROUNDS",
+    "internal_reference_number": 3,
+    "tier": "T2",
+    "canonical_name": "Funding News & Rounds",
+    "canonical_url": "https://www.startuprad.io/post/funding-news-and-rounds-from-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-STARTUP-NEWS-MARKET-SIGNALS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/funding-news-and-rounds-from-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-REGULATORY-POLICY-UPDATES",
+    "internal_reference_number": 2,
+    "tier": "T2",
+    "canonical_name": "Regulatory & Policy Updates",
+    "canonical_url": "https://www.startuprad.io/post/regulatory-and-policy-updates-affecting-startups-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-STARTUP-NEWS-MARKET-SIGNALS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/regulatory-and-policy-updates-affecting-startups-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-MARKET-MOVEMENTS-SIGNALS",
+    "internal_reference_number": 1,
+    "tier": "T2",
+    "canonical_name": "Market Movements & Signals",
+    "canonical_url": "https://www.startuprad.io/post/market-movements-and-signals-in-the-startup-ecosystems-of-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-STARTUP-NEWS-MARKET-SIGNALS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/market-movements-and-signals-in-the-startup-ecosystems-of-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-SEED-FUNDING-IN-DACH",
+    "internal_reference_number": 35,
+    "tier": "T2",
+    "canonical_name": "Seed Funding in DACH",
+    "canonical_url": "https://www.startuprad.io/post/seed-funding-for-startups-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-STARTUP-FUNDING-VENTURE-CAPITAL",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/seed-funding-for-startups-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-SERIES-A-B-FUNDING",
+    "internal_reference_number": 34,
+    "tier": "T2",
+    "canonical_name": "Series A & B Funding",
+    "canonical_url": "https://www.startuprad.io/post/series-a-and-b-funding-for-startups-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-STARTUP-FUNDING-VENTURE-CAPITAL",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/series-a-and-b-funding-for-startups-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-ANGEL-INVESTORS-FAMILY-OFFICES",
+    "internal_reference_number": 33,
+    "tier": "T2",
+    "canonical_name": "Angel Investors & Family Offices",
+    "canonical_url": "https://www.startuprad.io/post/angel-investors-and-family-offices-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-STARTUP-FUNDING-VENTURE-CAPITAL",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/angel-investors-and-family-offices-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-EXIT-IPO-PATHWAYS",
+    "internal_reference_number": 32,
+    "tier": "T2",
+    "canonical_name": "Exit & IPO Pathways",
+    "canonical_url": "https://www.startuprad.io/post/exit-and-ipo-pathways-for-startups-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-STARTUP-FUNDING-VENTURE-CAPITAL",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/exit-and-ipo-pathways-for-startups-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-EARLY-STAGE-FOUNDER-STORIES",
+    "internal_reference_number": 31,
+    "tier": "T2",
+    "canonical_name": "Early-Stage Founder Stories",
+    "canonical_url": "https://www.startuprad.io/post/early-stage-founder-stories-from-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-FOUNDER-STORIES-ENTREPRENEUR-INTERVIEWS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/early-stage-founder-stories-from-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-SCALEUP-FOUNDER-INTERVIEWS",
+    "internal_reference_number": 30,
+    "tier": "T2",
+    "canonical_name": "Scaleup Founder Interviews",
+    "canonical_url": "https://www.startuprad.io/post/scaleup-founder-interviews-from-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-FOUNDER-STORIES-ENTREPRENEUR-INTERVIEWS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/scaleup-founder-interviews-from-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-TECHNICAL-FOUNDER-JOURNEYS",
+    "internal_reference_number": 29,
+    "tier": "T2",
+    "canonical_name": "Technical Founder Journeys",
+    "canonical_url": "https://www.startuprad.io/post/technical-founder-journeys-from-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-FOUNDER-STORIES-ENTREPRENEUR-INTERVIEWS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/technical-founder-journeys-from-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-FOUNDER-BURNOUT-RESILIENCE",
+    "internal_reference_number": 28,
+    "tier": "T2",
+    "canonical_name": "Founder Burnout & Resilience",
+    "canonical_url": "https://www.startuprad.io/post/founder-burnout-and-resilience-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-FOUNDER-PSYCHOLOGY-LEADERSHIP",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/founder-burnout-and-resilience-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-CEO-ROLE-TRANSITIONS",
+    "internal_reference_number": 27,
+    "tier": "T2",
+    "canonical_name": "CEO Role Transitions",
+    "canonical_url": "https://www.startuprad.io/post/ceo-role-transitions-in-startups-across-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-FOUNDER-PSYCHOLOGY-LEADERSHIP",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/ceo-role-transitions-in-startups-across-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-LEADERSHIP-HIRING",
+    "internal_reference_number": 26,
+    "tier": "T2",
+    "canonical_name": "Leadership Hiring",
+    "canonical_url": "https://www.startuprad.io/post/leadership-hiring-for-startups-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-FOUNDER-PSYCHOLOGY-LEADERSHIP",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/leadership-hiring-for-startups-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-VC-DECISION-MAKING-STRATEGY",
+    "internal_reference_number": 25,
+    "tier": "T2",
+    "canonical_name": "VC Decision-Making & Strategy",
+    "canonical_url": "https://www.startuprad.io/post/vc-decision-making-and-strategy-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-VENTURE-CAPITAL-INVESTOR-PERSPECTIVES",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/vc-decision-making-and-strategy-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-FUND-FORMATION-LP-RELATIONS",
+    "internal_reference_number": 24,
+    "tier": "T2",
+    "canonical_name": "Fund Formation & LP Relations",
+    "canonical_url": "https://www.startuprad.io/post/fund-formation-and-lp-relations-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-VENTURE-CAPITAL-INVESTOR-PERSPECTIVES",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/fund-formation-and-lp-relations-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-PORTFOLIO-VALUE-CREATION",
+    "internal_reference_number": 23,
+    "tier": "T2",
+    "canonical_name": "Portfolio Value Creation",
+    "canonical_url": "https://www.startuprad.io/post/portfolio-value-creation-by-vcs-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-VENTURE-CAPITAL-INVESTOR-PERSPECTIVES",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/portfolio-value-creation-by-vcs-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-AI-STARTUPS-IN-DACH",
+    "internal_reference_number": 19,
+    "tier": "T2",
+    "canonical_name": "AI Startups in DACH",
+    "canonical_url": "https://www.startuprad.io/post/ai-startups-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-ARTIFICIAL-INTELLIGENCE-DEEP-TECH-STARTUPS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/ai-startups-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-INDUSTRIAL-ENTERPRISE-AI",
+    "internal_reference_number": 18,
+    "tier": "T2",
+    "canonical_name": "Industrial & Enterprise AI",
+    "canonical_url": "https://www.startuprad.io/post/industrial-and-enterprise-ai-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-ARTIFICIAL-INTELLIGENCE-DEEP-TECH-STARTUPS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/industrial-and-enterprise-ai-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-RESEARCH-SPIN-OFFS-DEEP-TECH-TRANSFER",
+    "internal_reference_number": 17,
+    "tier": "T2",
+    "canonical_name": "Research Spin-offs & Deep Tech Transfer",
+    "canonical_url": "https://www.startuprad.io/post/research-spin-offs-and-deep-tech-transfer-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-ARTIFICIAL-INTELLIGENCE-DEEP-TECH-STARTUPS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/research-spin-offs-and-deep-tech-transfer-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-FINTECH-STARTUPS-IN-DACH",
+    "internal_reference_number": 16,
+    "tier": "T2",
+    "canonical_name": "FinTech Startups in DACH",
+    "canonical_url": "https://www.startuprad.io/post/fintech-startups-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-FINTECH-REGTECH-COMPLIANCE-INNOVATION",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/fintech-startups-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-REGTECH-COMPLIANCE-AUTOMATION",
+    "internal_reference_number": 15,
+    "tier": "T2",
+    "canonical_name": "RegTech & Compliance Automation",
+    "canonical_url": "https://www.startuprad.io/post/regtech-and-compliance-automation-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-FINTECH-REGTECH-COMPLIANCE-INNOVATION",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/regtech-and-compliance-automation-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-FISCALIZATION-ACCOUNTING-TECHNOLOGY",
+    "internal_reference_number": 14,
+    "tier": "T2",
+    "canonical_name": "Fiscalization & Accounting Technology",
+    "canonical_url": "https://www.startuprad.io/post/fiscalization-and-accounting-technology-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-FINTECH-REGTECH-COMPLIANCE-INNOVATION",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/fiscalization-and-accounting-technology-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-CLIMATETECH-STARTUPS-IN-DACH",
+    "internal_reference_number": 13,
+    "tier": "T2",
+    "canonical_name": "ClimateTech Startups in DACH",
+    "canonical_url": "https://www.startuprad.io/post/climatetech-startups-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-CLIMATETECH-INDUSTRIAL-INNOVATION",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/climatetech-startups-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-ENERGY-MOBILITY-INFRASTRUCTURE-INNOVATION",
+    "internal_reference_number": 12,
+    "tier": "T2",
+    "canonical_name": "Energy, Mobility & Infrastructure Innovation",
+    "canonical_url": "https://www.startuprad.io/post/energy-mobility-and-infrastructure-innovation-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-CLIMATETECH-INDUSTRIAL-INNOVATION",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/energy-mobility-and-infrastructure-innovation-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-INDUSTRIAL-MANUFACTURING-TECH",
+    "internal_reference_number": 11,
+    "tier": "T2",
+    "canonical_name": "Industrial & Manufacturing Tech",
+    "canonical_url": "https://www.startuprad.io/post/industrial-and-manufacturing-technology-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-CLIMATETECH-INDUSTRIAL-INNOVATION",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/industrial-and-manufacturing-technology-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-STARTUP-SCALING-PLAYBOOKS",
+    "internal_reference_number": 22,
+    "tier": "T2",
+    "canonical_name": "Startup Scaling Playbooks",
+    "canonical_url": "https://www.startuprad.io/post/startup-scaling-playbooks-for-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-STARTUP-SCALING-GROWTH-OPERATIONS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/startup-scaling-playbooks-for-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-GO-TO-MARKET-REVENUE-OPERATIONS",
+    "internal_reference_number": 21,
+    "tier": "T2",
+    "canonical_name": "Go-to-Market & Revenue Operations",
+    "canonical_url": "https://www.startuprad.io/post/go-to-market-and-revenue-operations-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-STARTUP-SCALING-GROWTH-OPERATIONS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/go-to-market-and-revenue-operations-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-INTERNATIONAL-EXPANSION-MARKET-ENTRY",
+    "internal_reference_number": 20,
+    "tier": "T2",
+    "canonical_name": "International Expansion & Market Entry",
+    "canonical_url": "https://www.startuprad.io/post/international-expansion-and-market-entry-from-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-STARTUP-SCALING-GROWTH-OPERATIONS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/international-expansion-and-market-entry-from-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-UNICORN-ATLAS-EUROPE-S-BILLION-DOLLAR-STARTUPS-ANCHORED-IN-GERMANY-AUSTRIA-SWITZERLAND",
+    "internal_reference_number": 51,
+    "tier": "T2",
+    "canonical_name": "Unicorn Atlas: Europe's Billion-Dollar Startups — Anchored in Germany, Austria & Switzerland",
+    "canonical_url": "https://www.startuprad.io/post/the-ultimate-guide-to-startups-with-1b-valuation-in-germany-austria-and-switzerland-dach",
+    "parent_pillar_id": "T1-STARTUP-SCALING-GROWTH-OPERATIONS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/the-ultimate-guide-to-startups-with-1b-valuation-in-germany-austria-and-switzerland-dach",
+    "schema_version": "0.1.0",
+    "aliases": [
+      "DACH Unicorn Index"
+    ]
+  },
+  {
+    "pillar_id": "T2-PODCAST-PRODUCTION-DISTRIBUTION-STRATEGY",
+    "internal_reference_number": 10,
+    "tier": "T2",
+    "canonical_name": "Podcast Production & Distribution Strategy",
+    "canonical_url": "https://www.startuprad.io/post/podcast-production-and-distribution-strategy-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-MEDIA-PODCASTS-PLATFORM-STRATEGY",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/podcast-production-and-distribution-strategy-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-SEO-AI-SEARCH-CONTENT-DISTRIBUTION",
+    "internal_reference_number": 9,
+    "tier": "T2",
+    "canonical_name": "SEO, AI Search & Content Distribution",
+    "canonical_url": "https://www.startuprad.io/post/seo-ai-search-and-content-distribution-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-MEDIA-PODCASTS-PLATFORM-STRATEGY",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/seo-ai-search-and-content-distribution-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-MULTI-CHANNEL-AUDIENCE-GROWTH",
+    "internal_reference_number": 8,
+    "tier": "T2",
+    "canonical_name": "Multi-Channel Audience Growth",
+    "canonical_url": "https://www.startuprad.io/post/multi-channel-audience-growth-for-startup-media-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-MEDIA-PODCASTS-PLATFORM-STRATEGY",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/multi-channel-audience-growth-for-startup-media-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-PODCAST-SPONSORSHIPS-ADVERTISING",
+    "internal_reference_number": 7,
+    "tier": "T2",
+    "canonical_name": "Podcast Sponsorships & Advertising",
+    "canonical_url": "https://www.startuprad.io/post/podcast-sponsorships-and-advertising-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-PODCAST-ADVERTISING-PARTNERSHIPS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/podcast-sponsorships-and-advertising-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-BRANDED-CONTENT-SPONSORED-EPISODES",
+    "internal_reference_number": 6,
+    "tier": "T2",
+    "canonical_name": "Branded Content & Sponsored Episodes",
+    "canonical_url": "https://www.startuprad.io/post/branded-content-and-sponsored-episodes-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-PODCAST-ADVERTISING-PARTNERSHIPS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/branded-content-and-sponsored-episodes-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  },
+  {
+    "pillar_id": "T2-MEDIA-PARTNERSHIPS-CAMPAIGN-DESIGN",
+    "internal_reference_number": 5,
+    "tier": "T2",
+    "canonical_name": "Media Partnerships & Campaign Design",
+    "canonical_url": "https://www.startuprad.io/post/media-partnerships-and-campaign-design-in-germany-austria-and-switzerland",
+    "parent_pillar_id": "T1-PODCAST-ADVERTISING-PARTNERSHIPS",
+    "geographic_scope": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Europe"
+    ],
+    "status": "active",
+    "routing_eligible": true,
+    "preferred_citation_url": "https://www.startuprad.io/post/media-partnerships-and-campaign-design-in-germany-austria-and-switzerland",
+    "schema_version": "0.1.0"
+  }
+]

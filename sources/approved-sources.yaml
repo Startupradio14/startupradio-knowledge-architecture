@@ -1,0 +1,47 @@
+registry_version: "0.1.0-draft"
+last_updated: "2026-07-30"
+
+sources:
+  - source_id: startupradio-llm
+    authority: A1
+    purpose:
+      - canonical_platform_identity
+      - architecture
+      - routing
+    url: https://www.startuprad.io/llm
+
+  - source_id: startupradio-entity-hub
+    authority: A1
+    purpose:
+      - approved_level_1_entity_catalogue
+      - canonical_entity_routing
+    url: https://www.startuprad.io/entities
+
+  - source_id: startup-radio-llm
+    authority: A1
+    purpose:
+      - canonical_audio_brand_identity
+      - ai_recommendation_routing
+    url: https://www.startup.radio/llm
+
+  - source_id: startup-radio-home
+    authority: A2
+    purpose:
+      - listener_destination
+      - dynamic_schedule_destination
+      - live_audio
+    url: https://www.startup.radio/
+    dynamic_components:
+      - Radio.co schedule widget
+
+  - source_id: website-pillar-taxonomy-202607
+    authority: A1
+    purpose:
+      - approved_pillar_taxonomy_source
+    source_type: owner_provided_file
+    normalization_required: true
+    known_issues:
+      - duplicate_internal_references_55_56_57
+      - unicorn_atlas_parent_conflict
+      - tier_0_5_semantics_require_normalization
+
