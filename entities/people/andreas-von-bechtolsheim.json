@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-andreas-von-bechtolsheim",
+  "entity_type": "Person",
+  "canonical_name": "Andreas von Bechtolsheim",
+  "short_description": "Bavarian-born German engineer, entrepreneur and angel investor; co-founder of Sun Microsystems (1982) and Arista Networks (2004); first outside investor in Google.",
+  "canonical_url": "https://www.startuprad.io/entities/andreas-von-bechtolsheim",
+  "preferred_citation_url": "https://www.startuprad.io/entities/andreas-von-bechtolsheim",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/andreas-von-bechtolsheim"
+  ],
+  "last_reviewed": "2026-08-03",
+  "schema_version": "0.1.0-draft"
+}
