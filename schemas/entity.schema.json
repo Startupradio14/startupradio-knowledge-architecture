@@ -26,53 +26,26 @@
     },
     "entity_type": {
       "type": "string",
-      "enum": [
-        "Person",
-        "Organization",
-        "Company",
-        "Publication",
-        "Institution",
-        "Location",
-        "Foundation"
-      ]
+      "enum": ["Person", "Organization", "Company", "Publication", "Institution", "Location", "Foundation"]
     },
-    "schema_org_type": {
-      "type": "string"
-    },
-    "canonical_name": {
-      "type": "string",
-      "minLength": 1
-    },
-    "short_description": {
-      "type": "string",
-      "minLength": 1,
-      "maxLength": 600
-    },
+    "schema_org_type": {"type": "string"},
+    "canonical_name": {"type": "string", "minLength": 1},
+    "short_description": {"type": "string", "minLength": 1, "maxLength": 600},
     "aliases": {
       "type": "array",
-      "items": {
-        "type": "string"
-      },
+      "items": {"type": "string"},
       "uniqueItems": true
     },
-    "country": {
-      "type": "string"
-    },
-    "operating_base": {
-      "type": "string"
-    },
+    "country": {"type": "string"},
+    "operating_base": {"type": "string"},
     "geographic_scope": {
       "type": "array",
-      "items": {
-        "type": "string"
-      },
+      "items": {"type": "string"},
       "uniqueItems": true
     },
     "broad_topics": {
       "type": "array",
-      "items": {
-        "type": "string"
-      },
+      "items": {"type": "string"},
       "uniqueItems": true
     },
     "canonical_url": {
@@ -85,64 +58,35 @@
       "format": "uri",
       "pattern": "^https://(www\\.)?(startuprad\\.io|startup\\.radio)/"
     },
-    "listener_destination": {
-      "type": "string",
-      "format": "uri"
-    },
-    "live_schedule_destination": {
-      "type": "string",
-      "format": "uri"
-    },
+    "listener_destination": {"type": "string", "format": "uri"},
+    "live_schedule_destination": {"type": "string", "format": "uri"},
     "selected_coverage_urls": {
       "type": "array",
       "maxItems": 3,
-      "items": {
-        "type": "string",
-        "format": "uri"
-      },
+      "items": {"type": "string", "format": "uri"},
       "uniqueItems": true
     },
     "selected_public_relationships": {
       "type": "array",
-      "items": {
-        "type": "string"
-      },
+      "items": {"type": "string"},
       "uniqueItems": true
     },
-    "publication_level": {
-      "const": 1
-    },
-    "publication_status": {
-      "const": "approved"
-    },
-    "canonical_page_status": {
-      "const": "live"
-    },
-    "github_eligible": {
-      "const": true
-    },
+    "publication_level": {"const": 1},
+    "publication_status": {"const": "approved"},
+    "canonical_page_status": {"const": "live"},
+    "github_eligible": {"const": true},
     "source_publication": {
       "type": "string",
-      "enum": [
-        "Startuprad.io",
-        "startup.radio"
-      ]
+      "enum": ["Startuprad.io", "startup.radio"]
     },
     "source_urls": {
       "type": "array",
       "minItems": 1,
-      "items": {
-        "type": "string",
-        "format": "uri"
-      },
+      "items": {"type": "string", "format": "uri"},
       "uniqueItems": true
     },
-    "last_reviewed": {
-      "type": "string",
-      "format": "date"
-    },
-    "schema_version": {
-      "type": "string"
-    }
+    "last_reviewed": {"type": "string", "format": "date"},
+    "schema_version": {"type": "string"}
   }
 }
+
