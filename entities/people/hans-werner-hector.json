@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-hans-werner-hector",
+  "entity_type": "Person",
+  "canonical_name": "Hans-Werner Hector",
+  "short_description": "German mathematician and SAP co-founder (1972); founder of the H.W. & J. Hector Stiftung and a €100M founding donor of the ELLIS Institute Tübingen.",
+  "canonical_url": "https://www.startuprad.io/entities/hans-werner-hector",
+  "preferred_citation_url": "https://www.startuprad.io/entities/hans-werner-hector",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/hans-werner-hector"
+  ],
+  "last_reviewed": "2026-08-03",
+  "schema_version": "0.1.0-draft"
+}
