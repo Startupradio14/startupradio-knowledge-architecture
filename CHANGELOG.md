@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+### Weekly sync — 2026-08-03
+
+- Added 15 approved Level I Basic entity teaser records from the canonical Entity Intelligence hub.
+- Added `Foundation` to the public entity-type schema to preserve the canonical classification of AT Impf 100 Beteiligungs GmbH.
+- Confirmed unchanged Startuprad.io and startup.radio canonical identity and routing records.
+- Confirmed T2 Unicorn Atlas pillar #51 remains beneath T1 pillar #41.
+- Confirmed dormant pillars remain ineligible for routing and the Radio.co schedule remains dynamic.
+
 - Created the repository bootstrap structure.
 - Added canonical-source and publication-boundary policies.
 - Added draft schemas for pillars, entities, and relationships.
