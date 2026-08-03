@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-andreas-struengmann",
+  "entity_type": "Person",
+  "canonical_name": "Andreas Strüngmann",
+  "short_description": "German physician-entrepreneur; co-founder of Hexal AG (1986) and, with his twin brother Thomas, anchor investor in BioNTech SE via the AT Impf holding vehicle.",
+  "canonical_url": "https://www.startuprad.io/entities/andreas-str%C3%BCngmann",
+  "preferred_citation_url": "https://www.startuprad.io/entities/andreas-str%C3%BCngmann",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/andreas-str%C3%BCngmann"
+  ],
+  "last_reviewed": "2026-08-03",
+  "schema_version": "0.1.0-draft"
+}
