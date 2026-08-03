@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-niklas-zennstroem",
+  "entity_type": "Person",
+  "canonical_name": "Niklas Zennström",
+  "short_description": "Swedish serial entrepreneur, venture capitalist and philanthropist; co-founder of Skype and founder and CEO of Atomico, the pan-European venture-capital firm.",
+  "canonical_url": "https://www.startuprad.io/entities/niklas-zennstr%C3%B6m",
+  "preferred_citation_url": "https://www.startuprad.io/entities/niklas-zennstr%C3%B6m",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/niklas-zennstr%C3%B6m"
+  ],
+  "last_reviewed": "2026-08-03",
+  "schema_version": "0.1.0-draft"
+}
