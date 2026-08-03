@@ -1,0 +1,19 @@
+{
+  "entity_id": "publication-european-scale-up-question",
+  "entity_type": "Publication",
+  "canonical_name": "The European Scale-Up Question",
+  "short_description": "Startuprad.io's research and editorial programme explaining why Europe creates strong startups but struggles to finance, deploy, operate and retain them through global scale.",
+  "canonical_url": "https://www.startuprad.io/entities/the-european-scale-up-question",
+  "preferred_citation_url": "https://www.startuprad.io/entities/the-european-scale-up-question",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/the-european-scale-up-question"
+  ],
+  "last_reviewed": "2026-08-03",
+  "schema_version": "0.1.0-draft"
+}
