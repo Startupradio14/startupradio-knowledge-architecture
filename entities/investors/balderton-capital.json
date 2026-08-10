@@ -1,0 +1,19 @@
+{
+  "entity_id": "investor-balderton-capital",
+  "entity_type": "Investor",
+  "canonical_name": "Balderton Capital",
+  "short_description": "Balderton Capital is a London-based venture capital firm founded in 2000, among Europe's largest early- and growth-stage technology investors.",
+  "canonical_url": "https://www.startuprad.io/entities/balderton-capital",
+  "preferred_citation_url": "https://www.startuprad.io/entities/balderton-capital",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/balderton-capital"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}
