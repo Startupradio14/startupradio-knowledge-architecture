@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-torsten-reil",
+  "entity_type": "Person",
+  "canonical_name": "Torsten Reil",
+  "short_description": "Torsten Reil is a co-founder and co-chief executive of Helsing, the Munich-based defence artificial intelligence company. Before Helsing, he founded the animation-technology company NaturalMotion, which was acquired by Zynga in 2014.",
+  "canonical_url": "https://www.startuprad.io/entities/torsten-reil",
+  "preferred_citation_url": "https://www.startuprad.io/entities/torsten-reil",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/torsten-reil"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}
