@@ -1,0 +1,19 @@
+{
+  "entity_id": "investor-bond",
+  "entity_type": "Investor",
+  "canonical_name": "Bond",
+  "short_description": "Bond is a San Francisco-based growth-equity firm founded in 2018 by Mary Meeker, investing in late-stage technology companies.",
+  "canonical_url": "https://www.startuprad.io/entities/bond",
+  "preferred_citation_url": "https://www.startuprad.io/entities/bond",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/bond"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}
