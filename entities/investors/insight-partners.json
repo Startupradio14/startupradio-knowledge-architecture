@@ -1,0 +1,19 @@
+{
+  "entity_id": "investor-insight-partners",
+  "entity_type": "Investor",
+  "canonical_name": "Insight Partners",
+  "short_description": "Insight Partners is a New York-based global software and technology growth investor and a backer of mobile bank N26.",
+  "canonical_url": "https://www.startuprad.io/entities/insight-partners",
+  "preferred_citation_url": "https://www.startuprad.io/entities/insight-partners",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/insight-partners"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}
