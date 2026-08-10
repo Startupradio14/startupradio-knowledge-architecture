@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-mike-dargan",
+  "entity_type": "Person",
+  "canonical_name": "Mike Dargan",
+  "short_description": "Mike Dargan is a British banking and technology executive who became chief executive of N26, the Berlin-based digital bank, from April 2026. He previously held senior technology leadership roles at UBS.",
+  "canonical_url": "https://www.startuprad.io/entities/mike-dargan",
+  "preferred_citation_url": "https://www.startuprad.io/entities/mike-dargan",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/mike-dargan"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}
