@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-martin-klenk",
+  "entity_type": "Person",
+  "canonical_name": "Martin Klenk",
+  "short_description": "German technology entrepreneur, co-founder and chief technology officer of Celonis, responsible for the engineering and product foundations of the process-mining platform he helped launch in 2011 as a spin-off from the Technical University of Munich.",
+  "canonical_url": "https://www.startuprad.io/entities/martin-klenk",
+  "preferred_citation_url": "https://www.startuprad.io/entities/martin-klenk",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/martin-klenk"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}
