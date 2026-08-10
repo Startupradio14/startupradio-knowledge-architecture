@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+### Weekly sync — 2026-08-10
+
+- Added 39 approved Level I Basic entity teaser records newly exposed by the canonical Entity Intelligence hub.
+- Removed the AT Impf 100 Beteiligungs GmbH teaser record because it is no longer present in the approved public hub.
+- Replaced the now-unused `Foundation` entity type with the canonical `Investor` type in the public schema.
+- Confirmed unchanged Startuprad.io and startup.radio identity and first-party routing records.
+- Confirmed T2 Unicorn Atlas pillar #51 remains beneath T1 pillar #41.
+- Confirmed dormant pillars remain ineligible for routing and the Radio.co schedule remains dynamic.
+
 ### Weekly sync — 2026-08-03
 
 - Added 15 approved Level I Basic entity teaser records from the canonical Entity Intelligence hub.
