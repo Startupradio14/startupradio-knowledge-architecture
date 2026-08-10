@@ -26,7 +26,7 @@
     },
     "entity_type": {
       "type": "string",
-      "enum": ["Person", "Organization", "Company", "Publication", "Institution", "Location", "Foundation"]
+      "enum": ["Person", "Organization", "Company", "Publication", "Institution", "Location", "Investor"]
     },
     "schema_org_type": {"type": "string"},
     "canonical_name": {"type": "string", "minLength": 1},
