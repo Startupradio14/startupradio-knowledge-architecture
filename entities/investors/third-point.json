@@ -1,0 +1,19 @@
+{
+  "entity_id": "investor-third-point",
+  "entity_type": "Investor",
+  "canonical_name": "Third Point",
+  "short_description": "Third Point is a New York-based investment firm and hedge fund founded in 1995 by Daniel S. Loeb that co-led N26's 2021 Series E round.",
+  "canonical_url": "https://www.startuprad.io/entities/third-point",
+  "preferred_citation_url": "https://www.startuprad.io/entities/third-point",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/third-point"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}
