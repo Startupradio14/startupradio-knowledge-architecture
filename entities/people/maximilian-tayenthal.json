@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-maximilian-tayenthal",
+  "entity_type": "Person",
+  "canonical_name": "Maximilian Tayenthal",
+  "short_description": "Maximilian Tayenthal is an Austrian entrepreneur and co-founder of N26, the Berlin-based digital bank. He held senior executive roles through the company's growth and stepped back from operational duties at the end of 2025.",
+  "canonical_url": "https://www.startuprad.io/entities/maximilian-tayenthal",
+  "preferred_citation_url": "https://www.startuprad.io/entities/maximilian-tayenthal",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/maximilian-tayenthal"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}
