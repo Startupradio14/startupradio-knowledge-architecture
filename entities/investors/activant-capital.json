@@ -1,0 +1,19 @@
+{
+  "entity_id": "investor-activant-capital",
+  "entity_type": "Investor",
+  "canonical_name": "Activant Capital",
+  "short_description": "Greenwich, Connecticut-based growth-equity firm founded in 2015; among the new investors in Celonis's $400 million Series D extension in 2022.",
+  "canonical_url": "https://www.startuprad.io/entities/activant-capital",
+  "preferred_citation_url": "https://www.startuprad.io/entities/activant-capital",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/activant-capital"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}
