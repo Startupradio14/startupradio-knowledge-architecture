@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-niklas-koehler",
+  "entity_type": "Person",
+  "canonical_name": "Niklas Köhler",
+  "short_description": "Niklas Köhler is a co-founder of Helsing, the Munich-based defence artificial intelligence company, where he serves as president. He has a background in machine-learning research, including earlier work on healthcare AI.",
+  "canonical_url": "https://www.startuprad.io/entities/niklas-k%C3%B6hler",
+  "preferred_citation_url": "https://www.startuprad.io/entities/niklas-k%C3%B6hler",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/niklas-k%C3%B6hler"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}
