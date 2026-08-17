@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-monkee",
+  "entity_type": "Company",
+  "canonical_name": "Monkee",
+  "short_description": "Monkee GmbH was an Austrian personal-finance company based in Rum near Innsbruck, founded in 2018 by Martin Granig, Christian Schneider and Jean-Yves Bitterlich. It operated a savings and budgeting app built around a \"Save Now, Buy Later\" idea, in which users set savings goals and earned contributions towards them through cashback at partner retailers. Insolvency proceedings were opened at the Innsbruck Regional Court in August 2025 and the company ceased operations in November 2025.",
+  "canonical_url": "https://www.startuprad.io/entities/monkee",
+  "preferred_citation_url": "https://www.startuprad.io/entities/monkee",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/monkee"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}
