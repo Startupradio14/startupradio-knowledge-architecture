@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-sono-motors",
+  "entity_type": "Company",
+  "canonical_name": "Sono Motors",
+  "short_description": "Sono Motors is a Munich-headquartered German electric-mobility company founded in 2016 by Laurin Hahn, Jona Christians and Navina Pernsteiner that focuses on solar-integrated electric-vehicle technology. Its flagship consumer programme, the solar-integrated Sion passenger car, was wound down in early 2023 as the company refocused on business-to-business solar integration for third-party vehicles. Sono Group N.V., the company's parent listed on the Nasdaq stock exchange since November 2021, was delisted in 2024.",
+  "canonical_url": "https://www.startuprad.io/entities/sono-motors",
+  "preferred_citation_url": "https://www.startuprad.io/entities/sono-motors",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/sono-motors"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}
