@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-qonto",
+  "entity_type": "Company",
+  "canonical_name": "Qonto",
+  "short_description": "Qonto is a Paris-based finance platform for small and medium-sized enterprises, freelancers and associations, founded in 2016 by Alexandre Prot and Steve Anavi and operating as a licensed payment institution. It serves Germany through a Berlin branch under the joint supervision of the French ACPR and Germany's BaFin, and entered the German market in earnest by acquiring the Berlin SME neobank Penta in 2022.",
+  "canonical_url": "https://www.startuprad.io/entities/qonto",
+  "preferred_citation_url": "https://www.startuprad.io/entities/qonto",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/qonto"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}
