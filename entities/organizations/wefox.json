@@ -1,0 +1,19 @@
+{
+  "entity_id": "org-wefox",
+  "entity_type": "Organization",
+  "canonical_name": "Wefox",
+  "short_description": "Wefox is a European insurtech group founded in 2015 that distributes insurance through brokers and other intermediaries rather than directly to consumers, with Wefox Holding AG as the Swiss holding company and its main operational base in Berlin.",
+  "canonical_url": "https://www.startuprad.io/entities/wefox",
+  "preferred_citation_url": "https://www.startuprad.io/entities/wefox",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/wefox"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}
