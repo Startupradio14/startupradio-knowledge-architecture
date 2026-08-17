@@ -1,0 +1,19 @@
+{
+  "entity_id": "org-volocopter",
+  "entity_type": "Organization",
+  "canonical_name": "Volocopter",
+  "short_description": "Volocopter is a German developer of electric vertical take-off and landing (eVTOL) aircraft based in Bruchsal near Karlsruhe, known for the VoloCity air taxi and, since 2026, the VoloXPro ultralight multicopter.",
+  "canonical_url": "https://www.startuprad.io/entities/volocopter",
+  "preferred_citation_url": "https://www.startuprad.io/entities/volocopter",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/volocopter"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}
