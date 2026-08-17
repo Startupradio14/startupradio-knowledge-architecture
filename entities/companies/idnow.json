@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-idnow",
+  "entity_type": "Company",
+  "canonical_name": "IDnow",
+  "short_description": "IDnow GmbH is a Munich-headquartered German identity-verification company founded in 2014 that supplies know-your-customer identity checks, video-based and automated identification and qualified electronic signatures to regulated businesses across Europe. IDnow consolidated part of the European identity market through its 2021 acquisitions of ARIADNEXT in France and Identity Trust Management AG in Germany, and has been majority-owned by the New York investment firm Corsair Capital since 2025.",
+  "canonical_url": "https://www.startuprad.io/entities/idnow",
+  "preferred_citation_url": "https://www.startuprad.io/entities/idnow",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/idnow"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}
