@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-isar-aerospace",
+  "entity_type": "Company",
+  "canonical_name": "Isar Aerospace",
+  "short_description": "Isar Aerospace SE is a Munich-metropolitan-area German small-launch-vehicle space technology company headquartered in Ottobrunn and founded in 2018 by Daniel Metzler, Josef Peter Fleischmann and Markus Brandl. Isar Aerospace develops and builds the Spectrum small orbital launch vehicle, targeting European and international small-satellite launch demand. The company completed the first test launch of its Spectrum rocket in 2025 and is one of the most-cited European private launch companies.",
+  "canonical_url": "https://www.startuprad.io/entities/isar-aerospace",
+  "preferred_citation_url": "https://www.startuprad.io/entities/isar-aerospace",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/isar-aerospace"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}
