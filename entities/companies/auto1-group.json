@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-auto1-group",
+  "entity_type": "Company",
+  "canonical_name": "AUTO1 Group",
+  "short_description": "AUTO1 Group SE is a Berlin-headquartered digital automotive platform founded in 2012 by Christian Bertermann and Hakan Koç that buys, sells and finances used cars across Europe through the brands wirkaufendeinauto.de, AUTO1.com and Autohero. The company has been listed in the Prime Standard segment of the Frankfurt Stock Exchange since 4 February 2021 and is a member of the MDAX mid-cap index. It reported revenue of EUR 8.2 billion and 842,000 cars sold in 2025.",
+  "canonical_url": "https://www.startuprad.io/entities/auto1-group",
+  "preferred_citation_url": "https://www.startuprad.io/entities/auto1-group",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/auto1-group"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}
