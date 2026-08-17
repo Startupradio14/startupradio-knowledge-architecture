@@ -1,0 +1,19 @@
+{
+  "entity_id": "org-german-startup-association",
+  "entity_type": "Organization",
+  "canonical_name": "German Startup Association",
+  "short_description": "Bundesverband Deutsche Startups e.V., known in English as the German Startup Association, is the national industry and policy association of the German startup ecosystem, founded in Berlin on 10 September 2012 and publisher of the annual German Startup Monitor.",
+  "canonical_url": "https://www.startuprad.io/entities/german-startup-association",
+  "preferred_citation_url": "https://www.startuprad.io/entities/german-startup-association",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/german-startup-association"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}
