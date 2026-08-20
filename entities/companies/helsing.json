@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-helsing",
+  "entity_type": "Company",
+  "canonical_name": "Helsing",
+  "short_description": "Helsing is a Munich-based defence technology company, founded in 2021, that develops artificial intelligence software and autonomous systems for military applications across the air, land, sea, and electronic-warfare domains. By 2026 it had become Europe's most valuable defence startup, reaching a valuation of about 18 billion US dollars.",
+  "canonical_url": "https://www.startuprad.io/entities/helsing",
+  "preferred_citation_url": "https://www.startuprad.io/entities/helsing",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/helsing"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}

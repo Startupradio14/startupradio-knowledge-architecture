@@ -1,0 +1,19 @@
+{
+  "entity_id": "org-lilium",
+  "entity_type": "Organization",
+  "canonical_name": "Lilium",
+  "short_description": "Lilium was a German electric vertical take-off and landing (eVTOL) aircraft developer founded in 2015 and headquartered in Weßling near Munich, where it developed the Lilium Jet for regional air mobility.",
+  "canonical_url": "https://www.startuprad.io/entities/lilium",
+  "preferred_citation_url": "https://www.startuprad.io/entities/lilium",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/lilium"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}

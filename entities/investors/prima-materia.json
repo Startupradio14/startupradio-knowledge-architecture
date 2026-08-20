@@ -1,0 +1,19 @@
+{
+  "entity_id": "investor-prima-materia",
+  "entity_type": "Investor",
+  "canonical_name": "Prima Materia",
+  "short_description": "Stockholm-based investment firm co-founded in 2020 by Daniel Ek and Shakil Khan; lead backer of defence-AI company Helsing.",
+  "canonical_url": "https://www.startuprad.io/entities/prima-materia",
+  "preferred_citation_url": "https://www.startuprad.io/entities/prima-materia",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/prima-materia"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}

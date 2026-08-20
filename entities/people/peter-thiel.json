@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-peter-thiel",
+  "entity_type": "Person",
+  "canonical_name": "Peter Thiel",
+  "short_description": "German-American entrepreneur, venture capitalist and author; co-founder of PayPal, Palantir Technologies and Founders Fund; born Frankfurt am Main in 1967.",
+  "canonical_url": "https://www.startuprad.io/entities/peter-thiel",
+  "preferred_citation_url": "https://www.startuprad.io/entities/peter-thiel",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/peter-thiel"
+  ],
+  "last_reviewed": "2026-08-03",
+  "schema_version": "0.1.0-draft"
+}

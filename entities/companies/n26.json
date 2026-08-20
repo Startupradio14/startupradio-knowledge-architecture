@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-n26",
+  "entity_type": "Company",
+  "canonical_name": "N26",
+  "short_description": "N26 is a Berlin-based digital bank, founded in 2013 as Number26, that offers mobile-first current accounts and consumer financial services across Europe. It became one of Europe's most highly valued neobanks and reported its first full year of net profitability in 2025.",
+  "canonical_url": "https://www.startuprad.io/entities/n26",
+  "preferred_citation_url": "https://www.startuprad.io/entities/n26",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/n26"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}

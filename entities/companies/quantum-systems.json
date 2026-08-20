@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-quantum-systems",
+  "entity_type": "Company",
+  "canonical_name": "Quantum Systems",
+  "short_description": "German developer and manufacturer of small uncrewed aerial systems, headquartered near Munich, valued at roughly $8 billion after a 2026 Series D round.",
+  "canonical_url": "https://www.startuprad.io/entities/quantum-systems",
+  "preferred_citation_url": "https://www.startuprad.io/entities/quantum-systems",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/quantum-systems"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}

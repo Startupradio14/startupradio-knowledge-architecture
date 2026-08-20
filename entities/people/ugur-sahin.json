@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-ugur-sahin",
+  "entity_type": "Person",
+  "canonical_name": "Uğur Şahin",
+  "short_description": "German physician, oncologist and entrepreneur; co-founder and CEO of BioNTech SE and co-founder of Ganymed Pharmaceuticals; mRNA vaccine pioneer.",
+  "canonical_url": "https://www.startuprad.io/entities/u%C4%9Fur-%C5%9Fahin",
+  "preferred_citation_url": "https://www.startuprad.io/entities/u%C4%9Fur-%C5%9Fahin",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/u%C4%9Fur-%C5%9Fahin"
+  ],
+  "last_reviewed": "2026-08-03",
+  "schema_version": "0.1.0-draft"
+}

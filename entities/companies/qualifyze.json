@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-qualifyze",
+  "entity_type": "Company",
+  "canonical_name": "Qualifyze",
+  "short_description": "Qualifyze GmbH is a Frankfurt am Main-headquartered company founded in 2019 that operates an audit management and supplier-compliance data platform for the pharmaceutical and life-sciences industry. It runs GxP, ESG and ISO supplier audits through a global auditor network and turns the resulting audit data into a shared compliance and supplier-risk database used by drug manufacturers. Qualifyze raised a 54 million US dollar Series B round led by Insight Partners in September 2024.",
+  "canonical_url": "https://www.startuprad.io/entities/qualifyze",
+  "preferred_citation_url": "https://www.startuprad.io/entities/qualifyze",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/qualifyze"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}

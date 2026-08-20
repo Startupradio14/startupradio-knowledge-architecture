@@ -1,0 +1,19 @@
+{
+  "entity_id": "investor-gic",
+  "entity_type": "Investor",
+  "canonical_name": "GIC",
+  "short_description": "GIC is Singapore's sovereign wealth fund and a long-term institutional investor that backed mobile bank N26.",
+  "canonical_url": "https://www.startuprad.io/entities/gic",
+  "preferred_citation_url": "https://www.startuprad.io/entities/gic",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/gic"
+  ],
+  "last_reviewed": "2026-08-10",
+  "schema_version": "0.1.0-draft"
+}

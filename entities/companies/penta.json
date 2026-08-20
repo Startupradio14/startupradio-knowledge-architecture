@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-penta",
+  "entity_type": "Company",
+  "canonical_name": "Penta",
+  "short_description": "Penta was a Berlin-based digital business banking provider for German small and medium-sized enterprises, freelancers and the self-employed, founded in 2016 and launched in Germany in 2017. It was acquired by the French SME finance platform Qonto in 2022; its customers were migrated to the Qonto platform and the Penta brand was retired, so Penta no longer operates as an independent company.",
+  "canonical_url": "https://www.startuprad.io/entities/penta",
+  "preferred_citation_url": "https://www.startuprad.io/entities/penta",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/penta"
+  ],
+  "last_reviewed": "2026-08-17",
+  "schema_version": "0.1.0-draft"
+}
