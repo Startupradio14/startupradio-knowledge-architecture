@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-kamil-koc",
+  "entity_type": "Company",
+  "canonical_name": "Kamil Koc",
+  "short_description": "Kamil Koc is a Turkish intercity coach operator founded in 1926 by Kamil Koc, widely reported as the oldest and one of the largest scheduled long-distance coach networks in Turkey, headquartered in Istanbul and, since 2019, part of the Flix group as its first international bus-network acquisition.",
+  "canonical_url": "https://www.startuprad.io/entities/kamil-koc",
+  "preferred_citation_url": "https://www.startuprad.io/entities/kamil-koc",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/kamil-koc"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

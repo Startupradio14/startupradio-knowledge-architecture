@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-ontario-teachers-pension-plan",
+  "entity_type": "Organization",
+  "canonical_name": "Ontario Teachers' Pension Plan",
+  "short_description": "Ontario Teachers' Pension Plan (OTPP) is a Canadian defined-benefit pension plan founded in 1990, headquartered in Toronto, that manages retirement benefits for Ontario's teachers and invests directly across public equities, fixed income, real estate, infrastructure and private capital globally.",
+  "canonical_url": "https://www.startuprad.io/entities/ontario-teachers-pension-plan",
+  "preferred_citation_url": "https://www.startuprad.io/entities/ontario-teachers-pension-plan",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/ontario-teachers-pension-plan"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,5 +1,5 @@
 {
-  "entity_id": "org-contentshift",
+  "entity_id": "organization-contentshift",
   "entity_type": "Organization",
   "canonical_name": "CONTENTshift",
   "short_description": "CONTENTshift is an annual accelerator programme for startups in the content, book and publishing industry, launched in 2016 as an initiative of the Börsenverein des Deutschen Buchhandels and today run from Stuttgart by the association's Baden-Württemberg regional branch.",
@@ -14,6 +14,6 @@
     "https://www.startuprad.io/entities",
     "https://www.startuprad.io/entities/contentshift"
   ],
-  "last_reviewed": "2026-08-17",
+  "last_reviewed": "2026-08-24",
   "schema_version": "0.1.0-draft"
 }

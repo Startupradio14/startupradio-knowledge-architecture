@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-khosla-ventures",
+  "entity_type": "Organization",
+  "canonical_name": "Khosla Ventures",
+  "short_description": "Khosla Ventures is a US venture capital firm founded in 2004 by Vinod Khosla and headquartered in Menlo Park, California, that invests in early- and growth-stage companies across deep technology, clean energy, life sciences, artificial intelligence and financial services.",
+  "canonical_url": "https://www.startuprad.io/entities/khosla-ventures",
+  "preferred_citation_url": "https://www.startuprad.io/entities/khosla-ventures",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/khosla-ventures"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

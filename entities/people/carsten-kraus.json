@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-carsten-kraus",
+  "entity_type": "Person",
+  "canonical_name": "Carsten Kraus",
+  "short_description": "Carsten Kraus is a German serial founder and AI and data-science entrepreneur, best known for founding the data-quality company Omikron, the e-commerce search company FACT-Finder, and the video-AI startup Casablanca.ai.",
+  "canonical_url": "https://www.startuprad.io/entities/carsten-kraus",
+  "preferred_citation_url": "https://www.startuprad.io/entities/carsten-kraus",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/carsten-kraus"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

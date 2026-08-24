@@ -3,8 +3,8 @@
   "entity_type": "Investor",
   "canonical_name": "Fidelity Management & Research",
   "short_description": "Fidelity Management & Research is the investment arm of Fidelity Investments, a Boston-based asset manager founded in 1946.",
-  "canonical_url": "https://www.startuprad.io/entities/fidelity-management-%26-research",
-  "preferred_citation_url": "https://www.startuprad.io/entities/fidelity-management-%26-research",
+  "canonical_url": "https://www.startuprad.io/entities/fidelity-management-research",
+  "preferred_citation_url": "https://www.startuprad.io/entities/fidelity-management-research",
   "publication_level": 1,
   "publication_status": "approved",
   "canonical_page_status": "live",
@@ -12,8 +12,8 @@
   "source_publication": "Startuprad.io",
   "source_urls": [
     "https://www.startuprad.io/entities",
-    "https://www.startuprad.io/entities/fidelity-management-%26-research"
+    "https://www.startuprad.io/entities/fidelity-management-research"
   ],
-  "last_reviewed": "2026-08-10",
+  "last_reviewed": "2026-08-24",
   "schema_version": "0.1.0-draft"
 }

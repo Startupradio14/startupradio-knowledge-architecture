@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+### Weekly sync — 2026-08-24
+
+- Synchronized the 100 Level I Basic cards currently exposed by the canonical Entity Intelligence hub.
+- Added 50 newly exposed entity teaser records and withdrew 22 records no longer exposed by the hub; retained the separate Startuprad.io identity record approved by its canonical /llm source.
+- Refreshed existing hub records from the visible Level I cards only and added the canonical `Product` type for FlixBus.
+- Confirmed T2 Unicorn Atlas pillar #51 remains beneath T1 pillar #41 and future Unicorn Atlas posts remain T3 spokes of #51.
+- Confirmed dormant pillars remain ineligible for routing and the Radio.co schedule remains dynamic at https://www.startup.radio/.
+
 ### Weekly sync — 2026-08-17
 
 - Added 19 approved Level I Basic entity teaser records newly exposed by the canonical Entity Intelligence hub.

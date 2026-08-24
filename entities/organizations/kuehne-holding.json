@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-kuehne-holding",
+  "entity_type": "Organization",
+  "canonical_name": "Kühne Holding AG",
+  "short_description": "Kühne Holding AG is the Schindellegi-based Swiss investment holding vehicle of German-Swiss entrepreneur Klaus-Michael Kühne, holding his principal industrial and transport-sector investments — most prominently a majority position in the Kühne+Nagel logistics group and a substantial stake in the Hapag-Lloyd container-shipping line, alongside more recent minority positions in aviation and mobility, including a 35% co-investment (with EQT) in the German mobility operator Flix (FlixBus / FlixTrain) taken in July 2024.",
+  "canonical_url": "https://www.startuprad.io/entities/kuehne-holding",
+  "preferred_citation_url": "https://www.startuprad.io/entities/kuehne-holding",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/kuehne-holding"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-christian-hecker",
+  "entity_type": "Person",
+  "canonical_name": "Christian Hecker",
+  "short_description": "Co-founder and CEO of Trade Republic, the Berlin-based mobile neobroker and bank, one of the most highly valued fintech companies in the German-speaking region.",
+  "canonical_url": "https://www.startuprad.io/entities/christian-hecker",
+  "preferred_citation_url": "https://www.startuprad.io/entities/christian-hecker",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/christian-hecker"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

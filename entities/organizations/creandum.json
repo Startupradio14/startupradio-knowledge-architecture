@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-creandum",
+  "entity_type": "Organization",
+  "canonical_name": "Creandum",
+  "short_description": "Creandum is a European venture capital firm founded in 2003, headquartered in Stockholm with additional offices in Berlin, London and San Francisco, that invests in early-stage European technology companies.",
+  "canonical_url": "https://www.startuprad.io/entities/creandum",
+  "preferred_citation_url": "https://www.startuprad.io/entities/creandum",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/creandum"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

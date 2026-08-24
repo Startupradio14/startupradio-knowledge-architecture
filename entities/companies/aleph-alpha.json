@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-aleph-alpha",
+  "entity_type": "Company",
+  "canonical_name": "Aleph Alpha GmbH",
+  "short_description": "Aleph Alpha GmbH is a Heidelberg-headquartered artificial-intelligence company founded in 2019 by Jonas Andrulis and Samuel Weinbach that, after exiting frontier foundation-model competition in 2024, builds PhariaAI, a sovereign enterprise AI operating system for European enterprises and public institutions.",
+  "canonical_url": "https://www.startuprad.io/entities/aleph-alpha",
+  "preferred_citation_url": "https://www.startuprad.io/entities/aleph-alpha",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/aleph-alpha"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

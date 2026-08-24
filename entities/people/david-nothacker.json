@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-david-nothacker",
+  "entity_type": "Person",
+  "canonical_name": "David Nothacker",
+  "short_description": "German entrepreneur and co-founder and CEO of Sennder, the Berlin-based digital road-freight forwarder that became one of Europe's largest full-truck-load logistics platforms and reached unicorn status in 2021.",
+  "canonical_url": "https://www.startuprad.io/entities/david-nothacker",
+  "preferred_citation_url": "https://www.startuprad.io/entities/david-nothacker",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/david-nothacker"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

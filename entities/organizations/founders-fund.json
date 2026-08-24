@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-founders-fund",
+  "entity_type": "Organization",
+  "canonical_name": "Founders Fund",
+  "short_description": "Founders Fund is a US venture capital firm co-founded in 2005 by Peter Thiel, Ken Howery and Luke Nosek, headquartered in San Francisco, that invests in breakthrough technology companies across defence, aerospace, life sciences, artificial intelligence and financial services.",
+  "canonical_url": "https://www.startuprad.io/entities/founders-fund",
+  "preferred_citation_url": "https://www.startuprad.io/entities/founders-fund",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/founders-fund"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

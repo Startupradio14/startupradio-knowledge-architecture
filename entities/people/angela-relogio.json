@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-angela-relogio",
+  "entity_type": "Person",
+  "canonical_name": "Angela Relógio",
+  "short_description": "Portuguese-German systems biologist and chronobiology researcher; Professor of Systems Medicine at MSH Medical School Hamburg and scientific founder of TimeTeller GmbH, a body-clock diagnostics spin-off.",
+  "canonical_url": "https://www.startuprad.io/entities/angela-relogio",
+  "preferred_citation_url": "https://www.startuprad.io/entities/angela-relogio",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/angela-relogio"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

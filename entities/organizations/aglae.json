@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-aglae",
+  "entity_type": "Organization",
+  "canonical_name": "Aglae",
+  "short_description": "Aglae is the technology investment arm of the Arnault family, headquartered in Paris, that invests in growth-stage technology companies globally on a long-horizon basis.",
+  "canonical_url": "https://www.startuprad.io/entities/aglae",
+  "preferred_citation_url": "https://www.startuprad.io/entities/aglae",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/aglae"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

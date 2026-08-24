@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-julian-teicke",
+  "entity_type": "Person",
+  "canonical_name": "Julian Teicke",
+  "short_description": "German serial entrepreneur and co-founder of wefox, the Berlin-based insurtech that became one of Europe's most highly valued digital insurance companies, and co-founder and executive chairman of the venture studio The Delta.",
+  "canonical_url": "https://www.startuprad.io/entities/julian-teicke",
+  "preferred_citation_url": "https://www.startuprad.io/entities/julian-teicke",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/julian-teicke"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "publication-finance-automation-for-smes-moss",
+  "entity_type": "Publication",
+  "canonical_name": "Finance Automation for SMEs: How Moss is Redefining Financial Operations",
+  "short_description": "Startuprad.io Friday Entrepreneur series interview with Ante Spittler, co-founder and CEO of Moss, on finance automation for European SMEs, AI-driven invoice processing, and the operator-to-regulated-FinTech-CEO transition.",
+  "canonical_url": "https://www.startuprad.io/entities/article-moss-finance-automation-for-smes",
+  "preferred_citation_url": "https://www.startuprad.io/entities/article-moss-finance-automation-for-smes",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/article-moss-finance-automation-for-smes"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

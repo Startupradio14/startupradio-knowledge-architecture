@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-christopher-oster",
+  "entity_type": "Person",
+  "canonical_name": "Christopher Oster",
+  "short_description": "Co-founder of CLARK, the Frankfurt-based digital insurance broker (insurtech); the company's CEO from 2015 to 2024 and now Chairman of its Supervisory Board.",
+  "canonical_url": "https://www.startuprad.io/entities/christopher-oster",
+  "preferred_citation_url": "https://www.startuprad.io/entities/christopher-oster",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/christopher-oster"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

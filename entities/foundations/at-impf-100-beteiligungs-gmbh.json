@@ -2,9 +2,9 @@
   "entity_id": "foundation-at-impf-100-beteiligungs-gmbh",
   "entity_type": "Foundation",
   "canonical_name": "AT Impf 100 Beteiligungs GmbH",
-  "short_description": "Strüngmann family-office special-purpose investment vehicle used to hold the founding BioNTech SE position; parented by Santo Holding GmbH (Zug, Switzerland).",
-  "canonical_url": "https://www.startuprad.io/entities/at-impf-100-beteiligungs-gmbh",
-  "preferred_citation_url": "https://www.startuprad.io/entities/at-impf-100-beteiligungs-gmbh",
+  "short_description": "Strüngmann family-office special-purpose investment holding vehicle used to hold the founding stake in BioNTech SE; deployed the approximately 150 million euro 2008 seed capital that Andreas and Thomas Strüngmann provided to BioNTech and remained the single largest external BioNTech shareholder through the 2019 NASDAQ IPO and the 2021 market-capitalisation peak.",
+  "canonical_url": "https://www.startuprad.io/entities/at-impf-holding",
+  "preferred_citation_url": "https://www.startuprad.io/entities/at-impf-holding",
   "publication_level": 1,
   "publication_status": "approved",
   "canonical_page_status": "live",
@@ -12,8 +12,8 @@
   "source_publication": "Startuprad.io",
   "source_urls": [
     "https://www.startuprad.io/entities",
-    "https://www.startuprad.io/entities/at-impf-100-beteiligungs-gmbh"
+    "https://www.startuprad.io/entities/at-impf-holding"
   ],
-  "last_reviewed": "2026-08-17",
+  "last_reviewed": "2026-08-24",
   "schema_version": "0.1.0-draft"
 }

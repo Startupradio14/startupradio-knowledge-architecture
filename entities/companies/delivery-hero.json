@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-delivery-hero",
+  "entity_type": "Company",
+  "canonical_name": "Delivery Hero",
+  "short_description": "Delivery Hero SE is a Berlin-headquartered online food-delivery and quick-commerce group, founded in 2011 by Niklas Östberg, Kolja Hebenstreit, Markus Fuhrmann and Lukasz Gadowski, that operates consumer brands including foodpanda, Glovo, talabat, PedidosYa and Baemin across roughly 70 markets. Its shares have been listed on the Frankfurt Stock Exchange under the ticker DHER since 2017.",
+  "canonical_url": "https://www.startuprad.io/entities/delivery-hero",
+  "preferred_citation_url": "https://www.startuprad.io/entities/delivery-hero",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/delivery-hero"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}

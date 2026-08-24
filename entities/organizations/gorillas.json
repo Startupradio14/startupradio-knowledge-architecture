@@ -1,5 +1,5 @@
 {
-  "entity_id": "org-gorillas",
+  "entity_id": "organization-gorillas",
   "entity_type": "Organization",
   "canonical_name": "Gorillas",
   "short_description": "Gorillas was a Berlin-based rapid grocery delivery company founded in 2020 that delivered supermarket goods by bicycle courier from local dark stores; it was acquired by Getir in December 2022 and the brand ceased operating in May 2024.",
@@ -14,6 +14,6 @@
     "https://www.startuprad.io/entities",
     "https://www.startuprad.io/entities/gorillas"
   ],
-  "last_reviewed": "2026-08-17",
+  "last_reviewed": "2026-08-24",
   "schema_version": "0.1.0-draft"
 }

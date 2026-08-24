@@ -2,7 +2,7 @@
   "entity_id": "person-hasso-plattner",
   "entity_type": "Person",
   "canonical_name": "Hasso Plattner",
-  "short_description": "German entrepreneur and philanthropist; co-founder of SAP SE (1972), founder of the Hasso Plattner Institute (Potsdam) and the Hasso Plattner Institute of Design at Stanford (d.school).",
+  "short_description": "German engineer, entrepreneur, and philanthropist; co-founder of SAP SE (1972); founder of the Hasso Plattner Institute in Potsdam, the Hasso Plattner Institute of Design at Stanford (d.school), the Hasso Plattner Foundation, and Museum Barberini.",
   "canonical_url": "https://www.startuprad.io/entities/hasso-plattner",
   "preferred_citation_url": "https://www.startuprad.io/entities/hasso-plattner",
   "publication_level": 1,
@@ -14,6 +14,6 @@
     "https://www.startuprad.io/entities",
     "https://www.startuprad.io/entities/hasso-plattner"
   ],
-  "last_reviewed": "2026-08-03",
+  "last_reviewed": "2026-08-24",
   "schema_version": "0.1.0-draft"
 }

@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-jochen-engert",
+  "entity_type": "Person",
+  "canonical_name": "Jochen Engert",
+  "short_description": "German entrepreneur; co-founder of Flix, the Munich-headquartered European mobility company operating FlixBus and FlixTrain across Europe, North America and Turkey.",
+  "canonical_url": "https://www.startuprad.io/entities/jochen-engert",
+  "preferred_citation_url": "https://www.startuprad.io/entities/jochen-engert",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/jochen-engert"
+  ],
+  "last_reviewed": "2026-08-24",
+  "schema_version": "0.1.0-draft"
+}
