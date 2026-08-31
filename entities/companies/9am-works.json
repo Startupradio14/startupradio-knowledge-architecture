@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-9am-works",
+  "entity_type": "Company",
+  "canonical_name": "9am.works",
+  "short_description": "9am.works, run by Berlin-based 9am GmbH, is a freelancer platform positioning itself as an operating system for independent work: an AI profile, a freelancer CRM, a job aggregator and an academy, plus company-side tools for contracting and centrally paying freelancers. Founded 2021 by Marc Clemens.",
+  "canonical_url": "https://www.startuprad.io/entities/9am-works",
+  "preferred_citation_url": "https://www.startuprad.io/entities/9am-works",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/9am-works"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

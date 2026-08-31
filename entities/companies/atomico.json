@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-atomico",
+  "entity_type": "Company",
+  "canonical_name": "Atomico",
+  "short_description": "London-headquartered European venture-capital firm founded in 2006 by Skype co-founder Niklas Zennström, investing at Series A through pre-IPO in European technology companies. Publisher of the annual State of European Tech report and, in September 2024, closed its largest ever fundraise of USD 1.24 billion across Atomico Venture VI (USD 485 million) and Atomico Growth VI (USD 754 million). Notable portfolio companies include Klarna, Supercell, Stripe, Pipedrive, DeepL and Aiven.",
+  "canonical_url": "https://www.startuprad.io/entities/atomico",
+  "preferred_citation_url": "https://www.startuprad.io/entities/atomico",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/atomico"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

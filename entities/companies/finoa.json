@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-finoa",
+  "entity_type": "Company",
+  "canonical_name": "Finoa",
+  "short_description": "Finoa is a Berlin-based regulated digital-asset custody and staking platform for institutional investors, founded in 2018 by Christopher May and Henrik Gebbing. It holds three BaFin licences granted in February 2023 and has raised a USD 22 million Series A led by Balderton Capital plus later strategic rounds.",
+  "canonical_url": "https://www.startuprad.io/entities/finoa",
+  "preferred_citation_url": "https://www.startuprad.io/entities/finoa",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/finoa"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

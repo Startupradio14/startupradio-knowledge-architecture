@@ -1,0 +1,19 @@
+{
+  "entity_id": "media-bloomberg-lp",
+  "entity_type": "Media",
+  "canonical_name": "Bloomberg L.P.",
+  "short_description": "Privately held US financial technology, data, media and information services company headquartered in New York City, founded in 1981 by Michael Bloomberg (with co-founders Thomas Secunda, Duncan MacMillan and Charles Zegar); operator of the Bloomberg Terminal, the wire and multimedia news service Bloomberg News, and the Bloomberg Businessweek publication; distinct as a corporate entity from Michael Bloomberg the individual.",
+  "canonical_url": "https://www.startuprad.io/entities/bloomberg-lp",
+  "preferred_citation_url": "https://www.startuprad.io/entities/bloomberg-lp",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/bloomberg-lp"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

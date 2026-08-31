@@ -35,7 +35,12 @@
         "Location",
         "Investor",
         "Foundation",
-        "Product"
+        "Product",
+        "Award",
+        "Event",
+        "Government",
+        "Media",
+        "University"
       ]
     },
     "schema_org_type": {

@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-enpal",
+  "entity_type": "Company",
+  "canonical_name": "Enpal",
+  "short_description": "Berlin-headquartered German climate-technology company (founded 2017 by Mario Kohle, Jochen Ziervogel and Viktor Wingert) that offers residential solar photovoltaic systems, battery storage, heat pumps and electric-vehicle wallboxes to homeowners in Germany on a monthly-subscription (rent-to-own) model; became Germany's first widely reported climate unicorn in October 2021 after a €150M Series C led by SoftBank Vision Fund 2.",
+  "canonical_url": "https://www.startuprad.io/entities/enpal",
+  "preferred_citation_url": "https://www.startuprad.io/entities/enpal",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/enpal"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

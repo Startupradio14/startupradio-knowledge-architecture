@@ -1,0 +1,19 @@
+{
+  "entity_id": "award-deutscher-startup-monitor",
+  "entity_type": "Award",
+  "canonical_name": "Deutscher Startup Monitor",
+  "short_description": "Annual survey-based research report on the German startup ecosystem, published continuously since 2013 by the Bundesverband Deutsche Startups (Startup-Verband) in Berlin in partnership with the professional services firm PwC (with KPMG as a historical partner); one of the two canonical statistical baselines — alongside the KfW Gründungsmonitor — for tracking German startup demographics, funding, employment and sentiment.",
+  "canonical_url": "https://www.startuprad.io/entities/deutscher-startup-monitor",
+  "preferred_citation_url": "https://www.startuprad.io/entities/deutscher-startup-monitor",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/deutscher-startup-monitor"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

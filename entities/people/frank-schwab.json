@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-frank-schwab",
+  "entity_type": "Person",
+  "canonical_name": "Frank Schwab",
+  "short_description": "Frank Schwab is a Germany-based professional whose public profile is centred on co-founder of fintech forum; non-executive director and strategic advisor, in the field of financial technology — banking innovation, digital banking and fintech strategy.",
+  "canonical_url": "https://www.startuprad.io/entities/frank-schwab",
+  "preferred_citation_url": "https://www.startuprad.io/entities/frank-schwab",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/frank-schwab"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

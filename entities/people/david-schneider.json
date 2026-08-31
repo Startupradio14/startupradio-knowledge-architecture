@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-david-schneider",
+  "entity_type": "Person",
+  "canonical_name": "David Schneider",
+  "short_description": "David Schneider is a Germany-based professional whose public profile is centred on co-founder and management board member, zalando se, in the field of e-commerce — fashion, beauty and lifestyle in europe.",
+  "canonical_url": "https://www.startuprad.io/entities/david-schneider",
+  "preferred_citation_url": "https://www.startuprad.io/entities/david-schneider",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/david-schneider"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

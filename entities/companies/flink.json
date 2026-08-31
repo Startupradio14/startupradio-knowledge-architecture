@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-flink",
+  "entity_type": "Company",
+  "canonical_name": "Flink",
+  "short_description": "Berlin-headquartered German quick-commerce (grocery-delivery) company (founded 2020 by Oliver Merkel, Christoph Cordes, Julian Dames and Nikolas Bullwinkel) that operates its own network of dark-store fulfilment centres to deliver groceries and everyday essentials to customers in Germany, the Netherlands and neighbouring European markets; reached widely reported unicorn valuation in December 2021 after a US$750M DoorDash-led Series B.",
+  "canonical_url": "https://www.startuprad.io/entities/flink",
+  "preferred_citation_url": "https://www.startuprad.io/entities/flink",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/flink"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-dieter-schwarz",
+  "entity_type": "Person",
+  "canonical_name": "Dieter Schwarz",
+  "short_description": "Dieter Schwarz is the German billionaire owner of the Schwarz Gruppe, the parent of Lidl and Kaufland, and a major private investor in German technology and AI through the Schwarz Group's technology arm and the Dieter Schwarz Stiftung.",
+  "canonical_url": "https://www.startuprad.io/entities/dieter-schwarz",
+  "preferred_citation_url": "https://www.startuprad.io/entities/dieter-schwarz",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/dieter-schwarz"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}
