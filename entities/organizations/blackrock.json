@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-blackrock",
+  "entity_type": "Organization",
+  "canonical_name": "BlackRock",
+  "short_description": "BlackRock is a US asset management firm founded in 1988, headquartered in New York, that is the largest asset manager in the world by assets under management and provides investment management, risk management and financial advisory services to institutional and retail clients globally.",
+  "canonical_url": "https://www.startuprad.io/entities/blackrock",
+  "preferred_citation_url": "https://www.startuprad.io/entities/blackrock",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/blackrock"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

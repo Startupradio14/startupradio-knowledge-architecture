@@ -1,0 +1,19 @@
+{
+  "entity_id": "university-frankfurt-school",
+  "entity_type": "University",
+  "canonical_name": "Frankfurt School of Finance & Management",
+  "short_description": "Private business school in Frankfurt am Main, recognised as a university under Hessian law and rooted in the 1957 Bankakademie. Its Centre for Digital Economics, formerly the Blockchain Center, its Entrepreneurship Centre and the Futury platform tie it into the Frankfurt fintech cluster.",
+  "canonical_url": "https://www.startuprad.io/entities/frankfurt-school",
+  "preferred_citation_url": "https://www.startuprad.io/entities/frankfurt-school",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/frankfurt-school"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

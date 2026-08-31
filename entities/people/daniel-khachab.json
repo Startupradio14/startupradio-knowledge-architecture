@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-daniel-khachab",
+  "entity_type": "Person",
+  "canonical_name": "Daniel Khachab",
+  "short_description": "German entrepreneur and co-founder and CEO of Choco, the Berlin-based B2B food-supply-chain software company whose AI-powered ordering platform reached unicorn status in 2022.",
+  "canonical_url": "https://www.startuprad.io/entities/daniel-khachab",
+  "preferred_citation_url": "https://www.startuprad.io/entities/daniel-khachab",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/daniel-khachab"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

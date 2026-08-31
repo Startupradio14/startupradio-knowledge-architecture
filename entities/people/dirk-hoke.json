@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-dirk-hoke",
+  "entity_type": "Person",
+  "canonical_name": "Dirk Hoke",
+  "short_description": "German technology executive and CEO of the Voith Group, previously CEO of Volocopter, Airbus Defence and Space, and a long-serving senior executive at Siemens.",
+  "canonical_url": "https://www.startuprad.io/entities/dirk-hoke",
+  "preferred_citation_url": "https://www.startuprad.io/entities/dirk-hoke",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/dirk-hoke"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

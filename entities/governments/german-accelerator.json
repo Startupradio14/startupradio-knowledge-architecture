@@ -1,0 +1,19 @@
+{
+  "entity_id": "government-german-accelerator",
+  "entity_type": "Government",
+  "canonical_name": "German Accelerator",
+  "short_description": "Publicly-funded German international-expansion programme (founded 2012, financed by the German Federal Ministry for Economic Affairs and Climate Action / BMWK, operated by Start2 Group) that supports high-potential German startups scaling into the United States and the Asia-Pacific region through market-access programmes, mentor networks and local office footprints.",
+  "canonical_url": "https://www.startuprad.io/entities/german-accelerator",
+  "preferred_citation_url": "https://www.startuprad.io/entities/german-accelerator",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/german-accelerator"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-agile-robots",
+  "entity_type": "Company",
+  "canonical_name": "Agile Robots",
+  "short_description": "Munich-headquartered robotics company founded in 2018 by Peter Meusel and Zhaopeng Chen out of the German Aerospace Center (DLR), combining force-torque-sensitive robot arms with computer vision. Became Germany's first robotics unicorn via a USD 220 million SoftBank-led Series C in 2021 and has since expanded by acquisition.",
+  "canonical_url": "https://www.startuprad.io/entities/agile-robots",
+  "preferred_citation_url": "https://www.startuprad.io/entities/agile-robots",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/agile-robots"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

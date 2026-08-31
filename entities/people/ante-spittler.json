@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-ante-spittler",
+  "entity_type": "Person",
+  "canonical_name": "Ante Spittler",
+  "short_description": "Ante Spittler is co-founder and CEO of Moss, a Berlin-based FinTech providing finance automation for European SMEs. A former investor turned operator, he leads a company that has raised approximately $180 million to date.",
+  "canonical_url": "https://www.startuprad.io/entities/ante-spittler",
+  "preferred_citation_url": "https://www.startuprad.io/entities/ante-spittler",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/ante-spittler"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

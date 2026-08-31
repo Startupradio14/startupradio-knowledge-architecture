@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-firstgroup-plc",
+  "entity_type": "Company",
+  "canonical_name": "FirstGroup plc",
+  "short_description": "FirstGroup plc is a United Kingdom public-transport company headquartered in Aberdeen, Scotland, and listed on the London Stock Exchange, founded in 1995 through the merger of Badgerline Group and GRT Bus Group, that operates bus and rail services in the United Kingdom and, until October 2021, owned the US intercity coach operator Greyhound Lines.",
+  "canonical_url": "https://www.startuprad.io/entities/firstgroup",
+  "preferred_citation_url": "https://www.startuprad.io/entities/firstgroup",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/firstgroup"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

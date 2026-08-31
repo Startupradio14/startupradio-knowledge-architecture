@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-deep-ecosystems",
+  "entity_type": "Organization",
+  "canonical_name": "DEEP Ecosystems",
+  "short_description": "DEEP Ecosystems is a Berlin-based network organisation and knowledge platform for startup-ecosystem builders worldwide, publishing research, running events, and connecting the practitioners who develop the ecosystems around startup hubs.",
+  "canonical_url": "https://www.startuprad.io/entities/deep-ecosystems",
+  "preferred_citation_url": "https://www.startuprad.io/entities/deep-ecosystems",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/deep-ecosystems"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

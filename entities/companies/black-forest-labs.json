@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-black-forest-labs",
+  "entity_type": "Company",
+  "canonical_name": "Black Forest Labs",
+  "short_description": "Black Forest Labs is a German generative-artificial-intelligence company founded in 2024 by former members of the Stability AI research team, including Robin Rombach, Andreas Blattmann and Dominik Lorenz, that develops the FLUX family of text-to-image models and the Kontext image-editing model.",
+  "canonical_url": "https://www.startuprad.io/entities/black-forest-labs",
+  "preferred_citation_url": "https://www.startuprad.io/entities/black-forest-labs",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/black-forest-labs"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

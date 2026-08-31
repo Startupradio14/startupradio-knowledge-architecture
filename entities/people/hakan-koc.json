@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-hakan-koc",
+  "entity_type": "Person",
+  "canonical_name": "Hakan Koç",
+  "short_description": "German technology entrepreneur, co-founder of used-car platform AUTO1 Group and chairman of its supervisory board, and founder and CEO of technology-telecommunications company 1GLOBAL.",
+  "canonical_url": "https://www.startuprad.io/entities/hakan-koc",
+  "preferred_citation_url": "https://www.startuprad.io/entities/hakan-koc",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/hakan-koc"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

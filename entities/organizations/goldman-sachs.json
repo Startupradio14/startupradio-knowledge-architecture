@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-goldman-sachs",
+  "entity_type": "Organization",
+  "canonical_name": "Goldman Sachs",
+  "short_description": "Goldman Sachs is a US-headquartered global financial services firm founded in 1869 by Marcus Goldman and based in New York, that operates in investment banking, securities, investment management and consumer banking for institutional, corporate and government clients worldwide.",
+  "canonical_url": "https://www.startuprad.io/entities/goldman-sachs",
+  "preferred_citation_url": "https://www.startuprad.io/entities/goldman-sachs",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/goldman-sachs"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

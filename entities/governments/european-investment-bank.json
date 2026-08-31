@@ -1,0 +1,19 @@
+{
+  "entity_id": "government-european-investment-bank",
+  "entity_type": "Government",
+  "canonical_name": "European Investment Bank",
+  "short_description": "The European Investment Bank is the European Union's lending arm, founded in 1958 under the Treaty of Rome, headquartered in Luxembourg and owned by the 27 Member States. With the European Investment Fund it forms the EIB Group, which signed EUR 100 billion of new financing in 2025, including EUR 10.4 billion in Germany.",
+  "canonical_url": "https://www.startuprad.io/entities/european-investment-bank",
+  "preferred_citation_url": "https://www.startuprad.io/entities/european-investment-bank",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/european-investment-bank"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-flixtrain",
+  "entity_type": "Company",
+  "canonical_name": "FlixTrain",
+  "short_description": "FlixTrain is the open-access long-distance passenger-rail brand and subsidiary of Flix SE, launched in Germany in March 2018 and operated as FlixTrain GmbH from Munich, running green-liveried long-distance trains on the German federal rail network in competition with the incumbent long-distance services of Deutsche Bahn.",
+  "canonical_url": "https://www.startuprad.io/entities/flixtrain",
+  "preferred_citation_url": "https://www.startuprad.io/entities/flixtrain",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/flixtrain"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}

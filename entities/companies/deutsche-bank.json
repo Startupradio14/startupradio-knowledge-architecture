@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-deutsche-bank",
+  "entity_type": "Company",
+  "canonical_name": "Deutsche Bank",
+  "short_description": "Frankfurt am Main-headquartered German global universal bank, founded in Berlin in 1870 and listed on the Frankfurt Stock Exchange (ticker DBK) with an additional listing on the New York Stock Exchange; organised across Corporate Bank, Investment Bank, Private Bank and Asset Management divisions (including DWS), and one of the most active corporate banking counterparties to the German Mittelstand and to the DACH startup and technology ecosystem.",
+  "canonical_url": "https://www.startuprad.io/entities/deutsche-bank",
+  "preferred_citation_url": "https://www.startuprad.io/entities/deutsche-bank",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/deutsche-bank"
+  ],
+  "last_reviewed": "2026-08-31",
+  "schema_version": "0.1.0-draft"
+}
