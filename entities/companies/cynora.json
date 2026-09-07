@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-cynora",
+  "entity_type": "Company",
+  "canonical_name": "CYNORA",
+  "short_description": "CYNORA was a German deep-tech OLED emitter developer headquartered in Bruchsal near Karlsruhe. A spinoff associated with Karlsruhe Institute of Technology (KIT), it developed thermally activated delayed fluorescence (TADF) OLED emitter materials — notably cyBlueBooster and cyUltimateGreen — targeting more efficient blue and green OLED displays. Samsung Display acquired CYNORA's intellectual property in a transaction announced in June 2022 for a reported ~USD 300 million; the company's roughly 120 employees were terminated at the transaction.",
+  "canonical_url": "https://www.startuprad.io/entities/cynora",
+  "preferred_citation_url": "https://www.startuprad.io/entities/cynora",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/cynora"
+  ],
+  "last_reviewed": "2026-09-07",
+  "schema_version": "0.1.0-draft"
+}

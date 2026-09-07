@@ -1,0 +1,19 @@
+{
+  "entity_id": "holding-berlin-brands-group",
+  "entity_type": "Holding",
+  "canonical_name": "Berlin Brands Group",
+  "short_description": "Berlin Brands Group is a Berlin direct-to-consumer e-commerce holding founded in 2005 as Chal-Tec by Peter Chaljawski, known for Klarstein, auna and blumfeldt. It became a unicorn in 2021, and HPS Investment Partners took sole control in a change of control cleared in March 2024.",
+  "canonical_url": "https://www.startuprad.io/entities/berlin-brands-group",
+  "preferred_citation_url": "https://www.startuprad.io/entities/berlin-brands-group",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/berlin-brands-group"
+  ],
+  "last_reviewed": "2026-09-07",
+  "schema_version": "0.1.0-draft"
+}

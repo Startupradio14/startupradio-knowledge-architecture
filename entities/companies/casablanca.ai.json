@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-casablanca-ai",
+  "entity_type": "Company",
+  "canonical_name": "Casablanca.ai",
+  "short_description": "Casablanca.ai is a Pforzheim deep-tech company whose AI software restores natural eye contact in video calls without extra hardware, founded in 2020 by Carsten Kraus with Markus Vollmer and Ivan Alles. Casablanca.AI GmbH filed for insolvency at Amtsgericht Pforzheim in October 2025.",
+  "canonical_url": "https://www.startuprad.io/entities/casablanca.ai",
+  "preferred_citation_url": "https://www.startuprad.io/entities/casablanca.ai",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/casablanca.ai"
+  ],
+  "last_reviewed": "2026-09-07",
+  "schema_version": "0.1.0-draft"
+}

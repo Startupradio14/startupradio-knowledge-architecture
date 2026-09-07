@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-cansativa",
+  "entity_type": "Company",
+  "canonical_name": "Cansativa",
+  "short_description": "Cansativa is a medical-cannabis wholesaler, importer and distributor based in Moerfelden-Walldorf near Frankfurt Airport, founded in 2017 by Benedikt and Jakob Sons. It supplies German pharmacies and holds the distribution mandate for the BfArM cannabis agency's domestically grown cannabis.",
+  "canonical_url": "https://www.startuprad.io/entities/cansativa",
+  "preferred_citation_url": "https://www.startuprad.io/entities/cansativa",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/cansativa"
+  ],
+  "last_reviewed": "2026-09-07",
+  "schema_version": "0.1.0-draft"
+}

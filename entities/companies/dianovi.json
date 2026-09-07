@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-dianovi",
+  "entity_type": "Company",
+  "canonical_name": "Dianovi",
+  "short_description": "Dianovi is a Darmstadt healthcare software company, founded in 2023 as a TU Darmstadt spin-off under the earlier name MySympto, that builds AI software for hospital emergency departments covering documentation quality assurance, case management and clinical decision support.",
+  "canonical_url": "https://www.startuprad.io/entities/dianovi",
+  "preferred_citation_url": "https://www.startuprad.io/entities/dianovi",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/dianovi"
+  ],
+  "last_reviewed": "2026-09-07",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-compredict",
+  "entity_type": "Company",
+  "canonical_name": "COMPREDICT",
+  "short_description": "COMPREDICT is a Darmstadt deep-tech company that builds AI-based Virtual Sensors for vehicles, turning signals a car already produces into measurements that would otherwise need extra hardware. Founded in 2016 as a TU Darmstadt spin-off, it supplies carmakers and Tier 1 suppliers.",
+  "canonical_url": "https://www.startuprad.io/entities/compredict",
+  "preferred_citation_url": "https://www.startuprad.io/entities/compredict",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/compredict"
+  ],
+  "last_reviewed": "2026-09-07",
+  "schema_version": "0.1.0-draft"
+}
