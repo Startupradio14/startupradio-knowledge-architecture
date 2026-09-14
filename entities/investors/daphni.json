@@ -1,0 +1,19 @@
+{
+  "entity_id": "investor-daphni",
+  "entity_type": "Investor",
+  "canonical_name": "Daphni",
+  "short_description": "Paris-based European venture-capital firm; investor in Aachen second-life battery-storage company Voltfang's June 2025 EUR 15 million Series B round.",
+  "canonical_url": "https://www.startuprad.io/entities/daphni",
+  "preferred_citation_url": "https://www.startuprad.io/entities/daphni",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/daphni"
+  ],
+  "last_reviewed": "2026-09-14",
+  "schema_version": "0.1.0-draft"
+}

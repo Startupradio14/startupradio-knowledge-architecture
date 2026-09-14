@@ -3,7 +3,7 @@
   "entity_type": "Organization",
   "schema_org_type": "MediaOrganization",
   "canonical_name": "Startuprad.io",
-  "short_description": "Independent English-language startup and technology publication and podcast network focused on Germany, Austria, Switzerland, and the wider European startup ecosystem.",
+  "short_description": "Startuprad.io is an English-language media, intelligence, and ecosystem positioning platform focused on startups, venture capital, technology, and innovation across Europe, with strong depth in Germany, Austria, and Switzerland.",
   "aliases": ["STARTUPRAD.IO"],
   "country": "Germany",
   "operating_base": "Frankfurt Rhine-Main, Germany",
@@ -22,7 +22,6 @@
     "https://www.startuprad.io/entities/startuprad.io",
     "https://www.startuprad.io/llm"
   ],
-  "last_reviewed": "2026-07-30",
+  "last_reviewed": "2026-09-14",
   "schema_version": "0.1.0-draft"
 }
-

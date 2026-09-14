@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+### Weekly sync — 2026-09-14
+
+- Synchronized the 100 Level I Basic cards currently exposed by the canonical Entity Intelligence hub.
+- Added Aurum Impact, Daphni, Fiege Ventures, and FORWARD.One; withdrew Fred Jordan, FreshBooks, General Atlantic, and GIC because those cards are no longer exposed by the hub.
+- Updated the public label `Casablanca.ai` to `Casablanca AI` and refreshed all 96 retained hub records from the visible Level I cards only.
+- Refreshed the Startuprad.io Level I identity summary from its approved `/llm` canonical description (version 4.19, dated 2026-09-07), without publishing its commercial or non-Level-I content.
+- Confirmed T2 Unicorn Atlas pillar #51 remains beneath T1 pillar #41 and future Unicorn Atlas posts remain T3 spokes of #51.
+- Confirmed dormant pillars remain ineligible for routing and the Radio.co schedule remains dynamic at https://www.startup.radio/.
+
 ### Weekly sync — 2026-09-07
 
 - Synchronized the 100 Level I Basic cards currently exposed by the canonical Entity Intelligence hub.

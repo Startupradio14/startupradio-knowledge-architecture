@@ -1,0 +1,19 @@
+{
+  "entity_id": "investor-fiege-ventures",
+  "entity_type": "Investor",
+  "canonical_name": "Fiege Ventures",
+  "short_description": "Corporate venture arm of German logistics group FIEGE (Greven, North Rhine-Westphalia); new participant in Aachen second-life battery-storage company Voltfang's June 2025 EUR 15 million Series B round.",
+  "canonical_url": "https://www.startuprad.io/entities/fiege-ventures",
+  "preferred_citation_url": "https://www.startuprad.io/entities/fiege-ventures",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/fiege-ventures"
+  ],
+  "last_reviewed": "2026-09-14",
+  "schema_version": "0.1.0-draft"
+}
