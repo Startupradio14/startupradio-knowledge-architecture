@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-andreas-bodczek",
+  "entity_type": "Person",
+  "canonical_name": "Andreas Bodczek",
+  "short_description": "German tech executive and entrepreneur who has served as Chief Executive Officer of Munich-headquartered identity-verification platform IDnow GmbH since 2018, holds an MBA from Ludwig-Maximilians-Universitaet Muenchen, and was previously CEO of Fyber N.V. and CEO of Telefonica Deutschland's fixed-net business. Publicly reported early-stage investor and board partner at Point Nine Capital.",
+  "canonical_url": "https://www.startuprad.io/entities/andreas-bodczek",
+  "preferred_citation_url": "https://www.startuprad.io/entities/andreas-bodczek",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/andreas-bodczek"
+  ],
+  "last_reviewed": "2026-09-21",
+  "schema_version": "0.1.0-draft"
+}

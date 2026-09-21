@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+### Weekly sync — 2026-09-21
+
+- Synchronized the 100 Level I Basic cards currently exposed by the canonical Entity Intelligence hub.
+- Added 14 newly exposed records: AlphaQ, Andreas Bodczek, AskBrian, BISON, Brant Cooper, Christian Conrad, Cogia, Daniel Alfon, DeepMind, EBAN, Edupression, Endosane, ESL Gaming, and EVITADO.
+- Withdrew 14 records no longer exposed by the hub: Finance Automation for SMEs, Finn Hänsel, Finoa, FinTech Forum, FirstGroup plc, Flink, Flix SE, FlixBus, FlixTrain, Florian Seibel, Forto, Founders Fund, Frank Schwab, and Frankfurt School of Finance & Management.
+- Refreshed the review date on the 86 retained hub records; the approved Startuprad.io and startup.radio identity sources remain unchanged.
+- Confirmed T2 Unicorn Atlas pillar #51 remains beneath T1 pillar #41 and future Unicorn Atlas posts remain T3 spokes of #51.
+- Confirmed dormant pillars remain ineligible for routing and the Radio.co schedule remains dynamic at https://www.startup.radio/.
+
 ### Weekly sync — 2026-09-14
 
 - Synchronized the 100 Level I Basic cards currently exposed by the canonical Entity Intelligence hub.

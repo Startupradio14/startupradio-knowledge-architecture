@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-endosane",
+  "entity_type": "Company",
+  "canonical_name": "Endosane",
+  "short_description": "Berlin-headquartered German pharmaceutical company, incorporated in 2021 as a joint venture of Berlin-based cannabinoid-therapeutics group Sanity Group and an international research team led by Prof. Dr. F. Markus Leweke and Dr. Cathrin Rohleder. Endosane develops next-generation drug candidates targeting the endocannabinoid system for neuropsychiatric and psychiatric indications including schizophrenia and post-traumatic stress disorder, and continued advanced-stage clinical work through Sanity Group's parent-company transition into Canadian cannabis operator Organigram Global in 2026.",
+  "canonical_url": "https://www.startuprad.io/entities/endosane",
+  "preferred_citation_url": "https://www.startuprad.io/entities/endosane",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/endosane"
+  ],
+  "last_reviewed": "2026-09-21",
+  "schema_version": "0.1.0-draft"
+}

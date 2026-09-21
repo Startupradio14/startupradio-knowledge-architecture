@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-evitado",
+  "entity_type": "Company",
+  "canonical_name": "EVITADO",
+  "short_description": "Hamburg-headquartered German mobility-safety startup, founded in 2019 by Alex Kasinec, Andrew Moakes and co-founders, developing a portable LiDAR-based collision-warning and situational-awareness system for complex ground movements of large objects, primarily aircraft on airport aprons and in hangars. Reported to have raised approximately USD 4.1 million in a Seed round in September 2025.",
+  "canonical_url": "https://www.startuprad.io/entities/evitado",
+  "preferred_citation_url": "https://www.startuprad.io/entities/evitado",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/evitado"
+  ],
+  "last_reviewed": "2026-09-21",
+  "schema_version": "0.1.0-draft"
+}

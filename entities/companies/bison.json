@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-bison",
+  "entity_type": "Company",
+  "canonical_name": "BISON",
+  "short_description": "Stuttgart-headquartered German mobile trading application for cryptocurrencies and digital assets, launched in January 2019 by the Boerse Stuttgart Group as one of the first regulated retail crypto-trading products operated by an established European stock exchange. Operated inside the Boerse Stuttgart Digital / EUWAX AG stack with custody by Blocknox GmbH; supervised under German BaFin frameworks and subject to the EU Markets in Crypto-Assets (MiCA) regulation.",
+  "canonical_url": "https://www.startuprad.io/entities/bison",
+  "preferred_citation_url": "https://www.startuprad.io/entities/bison",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/bison"
+  ],
+  "last_reviewed": "2026-09-21",
+  "schema_version": "0.1.0-draft"
+}

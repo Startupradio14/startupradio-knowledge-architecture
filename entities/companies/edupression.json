@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-edupression",
+  "entity_type": "Company",
+  "canonical_name": "Edupression",
+  "short_description": "Austrian digital-therapeutic company, founded in 2018 in Klosterneuburg (Lower Austria) by Daniel Amann and Prof. Dr. Lukas Pezawas, operating under the legal entity SOFY GmbH. Edupression develops and markets a CE-certified, prescription-eligible digital psychotherapy program (mobile and web app) for unipolar depression and burnout, co-developed with the Medical University of Vienna and evaluated in multiple randomized clinical studies. The product has received permanent listing in Germany's DiGA directory for prescription digital-therapeutics.",
+  "canonical_url": "https://www.startuprad.io/entities/edupression",
+  "preferred_citation_url": "https://www.startuprad.io/entities/edupression",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/edupression"
+  ],
+  "last_reviewed": "2026-09-21",
+  "schema_version": "0.1.0-draft"
+}

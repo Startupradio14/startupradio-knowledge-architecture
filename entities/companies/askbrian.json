@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-askbrian",
+  "entity_type": "Company",
+  "canonical_name": "AskBrian",
+  "short_description": "Munich-based German artificial-intelligence startup founded in 2018 by Pavol Sikula (Chief Executive Officer) and Matthias Ruppel (Chief Technology Officer) that built a text-based digital assistant for consultants, executives and business-services professionals, delivering research, translation, data analysis and presentation tasks over email and Microsoft Teams from a GDPR-compliant Germany-hosted platform. Acquired by Berlin-based PowerPoint-productivity vendor think-cell in September 2023; prior investors publicly reported include Fostec Ventures (pre-seed lead), and angels including the founders of Zenloop, Flaconi, Flink and Kartenmacherei.",
+  "canonical_url": "https://www.startuprad.io/entities/askbrian",
+  "preferred_citation_url": "https://www.startuprad.io/entities/askbrian",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/askbrian"
+  ],
+  "last_reviewed": "2026-09-21",
+  "schema_version": "0.1.0-draft"
+}

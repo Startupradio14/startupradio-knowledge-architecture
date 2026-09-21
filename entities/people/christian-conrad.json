@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-christian-conrad",
+  "entity_type": "Person",
+  "canonical_name": "Christian Conrad",
+  "short_description": "Germany-based leadership and organisational-culture author, coach and keynote speaker, founder of the Management Boost advisory practice and author of the book Magnetische Unternehmenskultur (Magnetic Company Culture). Christian Conrad's public work focuses on how small and medium enterprises and scaling startups can measurably improve engagement and retention through a repeatable culture-execution framework built on employee Net Promoter Score movement, the Four Disciplines of Execution and a visible cultural-KPI scoreboard. He brings prior executive experience from consumer-goods multinationals including Unilever and Kellogg's.",
+  "canonical_url": "https://www.startuprad.io/entities/christian-conrad",
+  "preferred_citation_url": "https://www.startuprad.io/entities/christian-conrad",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/christian-conrad"
+  ],
+  "last_reviewed": "2026-09-21",
+  "schema_version": "0.1.0-draft"
+}

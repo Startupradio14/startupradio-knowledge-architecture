@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-alphaq",
+  "entity_type": "Company",
+  "canonical_name": "AlphaQ",
+  "short_description": "Berlin-headquartered German venture-capital fund-of-funds manager, founded in 2021 by serial entrepreneur Stephan Heller with co-founding partners Oliver Oster, Marius Weber and Marcus Boerner, that positions itself as a founder-driven VC-for-VCs vehicle. AlphaQ commits primary capital to a diversified portfolio of early-stage venture-capital funds mainly in Europe (with selective exposure to Israel and the United States), targets a total assets ambition of EUR 1 billion (initial target volume EUR 500 million) and has publicly reported allocations to funds including Northzone, Partech, Speedinvest, Headline, Nucleus Capital and White Star Capital, among others.",
+  "canonical_url": "https://www.startuprad.io/entities/alphaq",
+  "preferred_citation_url": "https://www.startuprad.io/entities/alphaq",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/alphaq"
+  ],
+  "last_reviewed": "2026-09-21",
+  "schema_version": "0.1.0-draft"
+}
