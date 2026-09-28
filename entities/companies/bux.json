@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-bux",
+  "entity_type": "Company",
+  "canonical_name": "Bux",
+  "short_description": "BUX is an Amsterdam-based retail investing and trading app, founded in 2013 by Nick Bortot, whose product family has expanded to include zero-commission investing and a separately branded derivatives product, Stryk.",
+  "canonical_url": "https://www.startuprad.io/entities/bux",
+  "preferred_citation_url": "https://www.startuprad.io/entities/bux",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/bux"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

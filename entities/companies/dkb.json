@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-dkb",
+  "entity_type": "Company",
+  "canonical_name": "DKB",
+  "short_description": "DKB (Deutsche Kreditbank AG) is a Berlin-headquartered German direct bank and part of the BayernLB Group, recurring in DACH fintech coverage as a partner bank for startups such as Upvest and Raisin.",
+  "canonical_url": "https://www.startuprad.io/entities/dkb",
+  "preferred_citation_url": "https://www.startuprad.io/entities/dkb",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/dkb"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

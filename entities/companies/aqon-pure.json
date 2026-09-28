@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-aqon-pure",
+  "entity_type": "Company",
+  "canonical_name": "AQON PURE",
+  "short_description": "AQON PURE is a German cleantech company making salt-free water softening systems for homes, aiming to prevent limescale without the chloride discharge of traditional salt-based softeners. Grown out of a family water-treatment business, it scaled bootstrapped via a direct-to-consumer and certified-installer model into Spain and Poland, earning FT1000 and Top-100 innovative-SME recognition.",
+  "canonical_url": "https://www.startuprad.io/entities/aqon-pure",
+  "preferred_citation_url": "https://www.startuprad.io/entities/aqon-pure",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/aqon-pure"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

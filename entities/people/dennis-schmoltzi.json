@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-dennis-schmoltzi",
+  "entity_type": "Person",
+  "canonical_name": "Dennis Schmoltzi",
+  "short_description": "Dennis Schmoltzi is a German entrepreneur, co-founder and chief executive of Emma – The Sleep Company (originally Bettzeit GmbH), the Frankfurt-based direct-to-consumer sleep brand he started in 2013, and a Startuprad.io founder-interview guest.",
+  "canonical_url": "https://www.startuprad.io/entities/dennis-schmoltzi",
+  "preferred_citation_url": "https://www.startuprad.io/entities/dennis-schmoltzi",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/dennis-schmoltzi"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

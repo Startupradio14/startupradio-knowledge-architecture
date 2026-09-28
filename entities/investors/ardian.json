@@ -1,0 +1,19 @@
+{
+  "entity_id": "investor-ardian",
+  "entity_type": "Investor",
+  "canonical_name": "Ardian",
+  "short_description": "Ardian is a Paris-headquartered global private-markets investment firm, led by CEO Dominique Senequier, managing or advising on roughly $180–200 billion in assets across private equity, real assets and private credit, with a Frankfurt office serving the German market since 2001.",
+  "canonical_url": "https://www.startuprad.io/entities/ardian",
+  "preferred_citation_url": "https://www.startuprad.io/entities/ardian",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/ardian"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

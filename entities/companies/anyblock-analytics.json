@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-anyblock-analytics",
+  "entity_type": "Company",
+  "canonical_name": "Anyblock Analytics",
+  "short_description": "Anyblock Analytics (Anyblock Analytics GmbH) was a Mainz, Germany-based blockchain data and analytics company acquired by U.S. infrastructure firm Blockdaemon in November 2021; it now operates as part of Blockdaemon rather than as an independent company.",
+  "canonical_url": "https://www.startuprad.io/entities/anyblock-analytics",
+  "preferred_citation_url": "https://www.startuprad.io/entities/anyblock-analytics",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/anyblock-analytics"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}
