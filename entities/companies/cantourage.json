@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-cantourage",
+  "entity_type": "Company",
+  "canonical_name": "Cantourage",
+  "short_description": "Cantourage Group SE is a Berlin-based, Frankfurt-listed (Scale, ticker HIGH) medical cannabis company that connects international cultivators with the European pharmacy market, led by CEO Philip Schetter.",
+  "canonical_url": "https://www.startuprad.io/entities/cantourage",
+  "preferred_citation_url": "https://www.startuprad.io/entities/cantourage",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/cantourage"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

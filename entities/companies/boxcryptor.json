@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-boxcryptor",
+  "entity_type": "Company",
+  "canonical_name": "Boxcryptor",
+  "short_description": "Boxcryptor was a German end-to-end cloud-storage encryption product built by Augsburg-based Secomba GmbH. It was acquired by Dropbox in November 2022 and subsequently wound down as a standalone product in early 2023.",
+  "canonical_url": "https://www.startuprad.io/entities/boxcryptor",
+  "preferred_citation_url": "https://www.startuprad.io/entities/boxcryptor",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/boxcryptor"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

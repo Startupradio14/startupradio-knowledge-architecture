@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-d11z-ventures",
+  "entity_type": "Company",
+  "canonical_name": "D11Z.Ventures",
+  "short_description": "D11Z.Ventures is a Heilbronn, Germany-based investment vehicle in the Schwarz Group/Heilbronn technology-investment ecosystem, active in AI and digital-innovation-focused venture and growth investing.",
+  "canonical_url": "https://www.startuprad.io/entities/d11z.ventures",
+  "preferred_citation_url": "https://www.startuprad.io/entities/d11z.ventures",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/d11z.ventures"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

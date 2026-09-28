@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-eban",
+  "entity_type": "Organization",
+  "canonical_name": "EBAN",
+  "short_description": "Brussels-headquartered non-profit European trade association for business angels, early-stage seed funds and other early-stage private-investor communities, founded in 1999 with support from the European Commission and EURADA. EBAN is the pan-European federation of national angel networks, angel groups and family offices; it runs the annual EBAN Congress, publishes the annual European Early-Stage Market Statistics report, and hosts the EBAN Awards. Members include national federations across the EU and DACH, including BAND (Germany), aaia (Austria) and SICTIC / SECA-linked groups in Switzerland.",
+  "canonical_url": "https://www.startuprad.io/entities/eban",
+  "preferred_citation_url": "https://www.startuprad.io/entities/eban",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/eban"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

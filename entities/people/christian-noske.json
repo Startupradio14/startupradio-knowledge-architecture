@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-christian-noske",
+  "entity_type": "Person",
+  "canonical_name": "Christian Noske",
+  "short_description": "Christian Noske is a Germany-based venture capital investor, a founding partner of Uplift Ventures' EUR100 million European deep-tech fund launched in 2026, and formerly a Partner at NGP Capital.",
+  "canonical_url": "https://www.startuprad.io/entities/christian-noske",
+  "preferred_citation_url": "https://www.startuprad.io/entities/christian-noske",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/christian-noske"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

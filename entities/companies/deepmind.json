@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-deepmind",
+  "entity_type": "Company",
+  "canonical_name": "DeepMind",
+  "short_description": "London-headquartered artificial-intelligence research laboratory, founded in September 2010 by Demis Hassabis, Shane Legg and Mustafa Suleyman as DeepMind Technologies Limited and acquired by Google in January 2014 for a reported £400 million-plus. Now operates as Google DeepMind, the merged AI research arm of Alphabet formed in April 2023 by combining DeepMind and Google Brain. Landmark research programmes include AlphaGo, AlphaZero, AlphaFold and the Gemini family of foundation models.",
+  "canonical_url": "https://www.startuprad.io/entities/deepmind",
+  "preferred_citation_url": "https://www.startuprad.io/entities/deepmind",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/deepmind"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-codoflow",
+  "entity_type": "Company",
+  "canonical_name": "Codoflow",
+  "short_description": "Codoflow is a German SaaS platform for collaborative data-architecture management, operated by Codoflow GmbH in Aschheim near Munich and represented by founder and managing director Stefan Opitz. It targets small and mid-sized enterprises and consultancies rather than large-enterprise architecture teams.",
+  "canonical_url": "https://www.startuprad.io/entities/codoflow",
+  "preferred_citation_url": "https://www.startuprad.io/entities/codoflow",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/codoflow"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

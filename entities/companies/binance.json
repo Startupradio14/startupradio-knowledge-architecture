@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-binance",
+  "entity_type": "Company",
+  "canonical_name": "Binance",
+  "short_description": "Binance is the world's largest cryptocurrency exchange by spot trading volume, founded in July 2017 by Changpeng Zhao (CZ) and Yi He. As of 2025 it reports more than 300 million registered users and roughly 38 percent of global spot market share (both company-reported). CZ stepped down as CEO in November 2023 as part of a US settlement. In the DACH region Binance never held a full BaFin licence: it withdrew its 2023 BaFin application and, per Startuprad.io reporting on June 2026 news, subsequently exited spot trading across the European Economic Area under MiCA enforcement.",
+  "canonical_url": "https://www.startuprad.io/entities/binance",
+  "preferred_citation_url": "https://www.startuprad.io/entities/binance",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/binance"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

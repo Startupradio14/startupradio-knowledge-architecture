@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-billie",
+  "entity_type": "Company",
+  "canonical_name": "Billie",
+  "short_description": "Billie is a Berlin-based B2B fintech providing embedded buy-now-pay-later and invoice-financing infrastructure for online marketplaces and business merchants across Europe. Founded in 2016, it has raised over US$100 million from investors including Dawn Capital and, per later reports, Klarna.",
+  "canonical_url": "https://www.startuprad.io/entities/billie",
+  "preferred_citation_url": "https://www.startuprad.io/entities/billie",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/billie"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

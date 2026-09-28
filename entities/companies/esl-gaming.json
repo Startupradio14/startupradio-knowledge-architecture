@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-esl-gaming",
+  "entity_type": "Company",
+  "canonical_name": "ESL Gaming",
+  "short_description": "Cologne-headquartered German esports company, founded in 2000 by Ralf Reichert and Jens Hilgers as Turtle Entertainment GmbH and operator of the ESL (Electronic Sports League) brand. Turtle Entertainment was majority-acquired by Sweden's Modern Times Group (MTG) for approximately EUR 78 million in 2015. In January 2022 Saudi-backed Savvy Gaming Group announced the acquisition of ESL Gaming from MTG for approximately USD 1.05 billion and of FACEIT for approximately USD 500 million and merged the two into ESL FACEIT Group (EFG), the world's largest competitive-gaming platform, retaining Cologne as a principal operating hub.",
+  "canonical_url": "https://www.startuprad.io/entities/esl-gaming",
+  "preferred_citation_url": "https://www.startuprad.io/entities/esl-gaming",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/esl-gaming"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

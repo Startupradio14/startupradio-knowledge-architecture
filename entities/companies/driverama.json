@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-driverama",
+  "entity_type": "Company",
+  "canonical_name": "Driverama",
+  "short_description": "Driverama is a pan-European online used-car platform launched in April 2021 by AURES Holdings — the Prague-based used-car group behind AAA Auto and Mototechna, controlled by private-equity firm Abris Capital Partners and founded by Anthony Denny. Note: Driverama is a subsidiary of AURES Holdings, not of AUTO1 Group. The company launched retail buying in Germany in July 2021, expanded to the Netherlands in January 2022 and to Berlin retail micro-branches in 2022. Reporting on any 2022 wind-down could not be independently verified at profile build; AURES Holdings continued to disclose Driverama within its brand portfolio in 2023 and 2024 sales reports.",
+  "canonical_url": "https://www.startuprad.io/entities/driverama",
+  "preferred_citation_url": "https://www.startuprad.io/entities/driverama",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/driverama"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

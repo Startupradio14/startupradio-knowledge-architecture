@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-amazing-blocks",
+  "entity_type": "Company",
+  "canonical_name": "Amazing Blocks",
+  "short_description": "Amazing Blocks is a blockchain company, reported as based in Liechtenstein, that legally tokenizes assets — equity, debt, patents and trademarks — via Liechtenstein SPVs under the country's Token Act. Founded in August 2020, it was profiled by Startuprad.io alongside the Frankfurt School Blockchain Center's Crypto Assets Conference.",
+  "canonical_url": "https://www.startuprad.io/entities/amazing-blocks",
+  "preferred_citation_url": "https://www.startuprad.io/entities/amazing-blocks",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/amazing-blocks"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

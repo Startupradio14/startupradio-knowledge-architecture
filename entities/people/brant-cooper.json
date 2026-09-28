@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-brant-cooper",
+  "entity_type": "Person",
+  "canonical_name": "Brant Cooper",
+  "short_description": "United States-based (San Diego, California) New York Times bestselling business-book author, keynote speaker and startup and enterprise-innovation advisor, best known as the co-author of the Lean Entrepreneur (with Patrick Vlaskovits, 2013) and the author of Disruption Proof. Brant Cooper is co-founder and Chief Executive Officer of Moves the Needle, a firm that applies lean, human-centred design and agile methodologies to help large enterprises adopt startup-style innovation practices. He is publicly recognised as one of the originators of the Lean Startup movement.",
+  "canonical_url": "https://www.startuprad.io/entities/brant-cooper",
+  "preferred_citation_url": "https://www.startuprad.io/entities/brant-cooper",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/brant-cooper"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-cogia",
+  "entity_type": "Company",
+  "canonical_name": "Cogia",
+  "short_description": "Germany-based artificial-intelligence and market-intelligence software company founded in 2010 by Pascal Lauria that operates publicly as Cogia AG following a 2021 listing on the Düsseldorf stock exchange. Cogia's stated strategic priority is to consolidate a fragmented European market for text- and data-analytics tooling by using public equity as acquisition currency. Cogia AG is the listed vehicle into which the original operating company Cogia Intelligence GmbH was merged.",
+  "canonical_url": "https://www.startuprad.io/entities/cogia",
+  "preferred_citation_url": "https://www.startuprad.io/entities/cogia",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/cogia"
+  ],
+  "last_reviewed": "2026-09-28",
+  "schema_version": "0.1.0-draft"
+}
