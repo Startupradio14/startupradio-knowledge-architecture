@@ -1,0 +1,19 @@
+{
+  "entity_id": "investor-durable-capital-partners",
+  "entity_type": "Investor",
+  "canonical_name": "Durable Capital Partners",
+  "short_description": "Durable Capital Partners is a US growth-equity and public-markets crossover investment firm founded by Henry Ellenbogen, documented as a co-lead investor in Germany's Celonis decacorn round and a backer of Berlin-based Parloa.",
+  "canonical_url": "https://www.startuprad.io/entities/durable-capital-partners",
+  "preferred_citation_url": "https://www.startuprad.io/entities/durable-capital-partners",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/durable-capital-partners"
+  ],
+  "last_reviewed": "2026-10-05",
+  "schema_version": "0.1.0-draft"
+}

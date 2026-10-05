@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+### Weekly sync — 2026-10-05
+
+- Synchronized the 100 Level I Basic cards currently exposed by the canonical Entity Intelligence hub.
+- Added the newly exposed Durable Capital Partners investor record and withdrew ESL Gaming because its card is no longer exposed by the hub.
+- Refreshed the review date on the 99 retained hub records; the approved Startuprad.io and startup.radio identity sources remain unchanged.
+- Confirmed T2 Unicorn Atlas pillar #51 remains beneath T1 pillar #41 and future Unicorn Atlas posts remain T3 spokes of #51.
+- Confirmed dormant pillars remain ineligible for routing and the Radio.co schedule remains dynamic at https://www.startup.radio/.
+
 ### Weekly sync — 2026-09-28
 
 - Synchronized the 100 Level I Basic cards currently exposed by the canonical Entity Intelligence hub.
