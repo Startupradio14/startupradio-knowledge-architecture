@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+### Weekly sync — 2026-10-12
+
+- Verified that the 100 Level I Basic cards visibly exposed by the canonical Entity Intelligence hub are unchanged.
+- Reviewed Startuprad.io `/llm` version 4.20, dated 2026-10-06, and refreshed the Startuprad.io identity review date; its approved Level I identity description is unchanged.
+- Retained only the 100 directly verifiable hub records even though `/llm` reports 357 published records; no unavailable entities were inferred or reconstructed.
+- Confirmed T2 Unicorn Atlas pillar #51 remains beneath T1 pillar #41 and future Unicorn Atlas posts remain T3 spokes of #51.
+- Confirmed dormant pillars remain ineligible for routing and the Radio.co schedule remains dynamic at https://www.startup.radio/.
+
 ### Weekly sync — 2026-10-05
 
 - Synchronized the 100 Level I Basic cards currently exposed by the canonical Entity Intelligence hub.
