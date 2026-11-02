@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+### Weekly sync — 2026-11-02
+
+- Synchronized the 100 Level I Basic cards currently exposed by the canonical Entity Intelligence hub.
+- Added 10 newly exposed records: Anna Christmann, AWS, Business Angels Deutschland, Capchase, Capco, Cellares, Dassault Systèmes, Deloitte, Detlev Riesner, and Diamond Foundry.
+- Withdrew 10 records no longer exposed by the hub: Dieter Schwarz, Dietmar Hopp, Dirk Hoke, Dominik Richter, Dragoneer Investment Group, Driverama, Durable Capital Partners, EBAN, EQT AB, and EQT Ventures.
+- Refreshed the review date on the 90 retained hub records; the approved Startuprad.io and startup.radio identity sources remain unchanged.
+- Confirmed T2 Unicorn Atlas pillar #51 remains beneath T1 pillar #41 and future Unicorn Atlas posts remain T3 spokes of #51.
+- Confirmed dormant pillars remain ineligible for routing and the Radio.co schedule remains dynamic at https://www.startup.radio/.
+
 ### Weekly sync — 2026-10-12
 
 - Verified that the 100 Level I Basic cards visibly exposed by the canonical Entity Intelligence hub are unchanged.
