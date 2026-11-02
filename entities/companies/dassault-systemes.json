@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-dassault-systemes",
+  "entity_type": "Company",
+  "canonical_name": "Dassault Systèmes",
+  "short_description": "French industrial software company founded in 1981 as a spin-off of the Dassault group and headquartered in Vélizy-Villacoublay near Paris, which develops 3D design, simulation, manufacturing and product-lifecycle software around its 3DEXPERIENCE platform (brands include CATIA, SOLIDWORKS, SIMULIA, DELMIA, ENOVIA, BIOVIA and MEDIDATA). Listed on Euronext Paris (DSY) and a CAC 40 component, it reports more than 390,000 customers and about 25,000 employees, and runs the 3DEXPERIENCE Lab startup accelerator. Dassault Systèmes has cooperated with Startuprad.io through its startup programme.",
+  "canonical_url": "https://www.startuprad.io/entities/dassault-syst%C3%A8mes",
+  "preferred_citation_url": "https://www.startuprad.io/entities/dassault-syst%C3%A8mes",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/dassault-syst%C3%A8mes"
+  ],
+  "last_reviewed": "2026-11-02",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-business-angels-deutschland",
+  "entity_type": "Organization",
+  "canonical_name": "Business Angels Deutschland",
+  "short_description": "Business Angels Deutschland e.V. (BAND) is the federal association of business angels and business angel networks in Germany, based in Essen. It represents early-stage angel investors towards policymakers and the public, runs training and expert formats such as the BANDakademie, and organises the Deutscher Business Angels Tag (German Business Angel Day), which it describes as the most important annual event of the German business angel scene. BAND reports around 3,500 direct and indirect members and more than 40 business angel networks and clubs.",
+  "canonical_url": "https://www.startuprad.io/entities/business-angels-deutschland",
+  "preferred_citation_url": "https://www.startuprad.io/entities/business-angels-deutschland",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/business-angels-deutschland"
+  ],
+  "last_reviewed": "2026-11-02",
+  "schema_version": "0.1.0-draft"
+}

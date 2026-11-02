@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-capchase",
+  "entity_type": "Company",
+  "canonical_name": "Capchase",
+  "short_description": "Capchase is a New York-headquartered fintech, founded in 2020 by a Spanish founding team, that lets B2B sellers offer buyers flexible payment terms while being paid upfront. It appears on TUM's list of unicorns founded by TUM alumni (August 2026), although no valuation of $1 billion or more has been reliably reported.",
+  "canonical_url": "https://www.startuprad.io/entities/capchase",
+  "preferred_citation_url": "https://www.startuprad.io/entities/capchase",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/capchase"
+  ],
+  "last_reviewed": "2026-11-02",
+  "schema_version": "0.1.0-draft"
+}
