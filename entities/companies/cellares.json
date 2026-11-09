@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-cellares",
+  "entity_type": "Company",
+  "canonical_name": "Cellares",
+  "short_description": "Cellares is a South San Francisco company that builds automated factories, based on its Cell Shuttle platform, to manufacture cell therapies at industrial scale. Co-founded in 2019 by TUM alumnus Fabian Gerlinghaus, it has not disclosed a valuation; only a database estimate puts it at about $1 billion.",
+  "canonical_url": "https://www.startuprad.io/entities/cellares",
+  "preferred_citation_url": "https://www.startuprad.io/entities/cellares",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/cellares"
+  ],
+  "last_reviewed": "2026-11-09",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-byeagain",
+  "entity_type": "Company",
+  "canonical_name": "ByeAgain",
+  "short_description": "Austrian refurbishment-as-a-service company from the Graz region, founded in 2022 by Wolfgang Weingraber and Jan Kranner, that turns returned, B-stock and surplus consumer goods into resale-ready inventory for brands and retailers using AI-guided workflows. It focuses on non-standardised goods such as baby and kids products, tools and DIY, outdoor and garden, and pet equipment.",
+  "canonical_url": "https://www.startuprad.io/entities/byeagain",
+  "preferred_citation_url": "https://www.startuprad.io/entities/byeagain",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/byeagain"
+  ],
+  "last_reviewed": "2026-11-09",
+  "schema_version": "0.1.0-draft"
+}

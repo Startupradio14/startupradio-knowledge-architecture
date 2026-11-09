@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-anna-christmann",
+  "entity_type": "Person",
+  "canonical_name": "Anna Christmann",
+  "short_description": "German politician and former member of the German Bundestag (2017-2025) for the Stuttgart II constituency, Bündnis 90/Die Grünen. From January 2022 to 2025 Anna Christmann served as the Federal Ministry for Economic Affairs and Climate Action's Commissioner for the Digital Economy and Start-ups, alongside her role as the Federal Government Coordinator for German Aerospace Policy. In the commissioner role she worked on Germany's first comprehensive federal Startup Strategy, adopted by the federal cabinet in July 2022, which she discussed in a 2023 Startuprad.io interview.",
+  "canonical_url": "https://www.startuprad.io/entities/anna-christmann",
+  "preferred_citation_url": "https://www.startuprad.io/entities/anna-christmann",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/anna-christmann"
+  ],
+  "last_reviewed": "2026-11-09",
+  "schema_version": "0.1.0-draft"
+}

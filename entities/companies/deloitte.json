@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-deloitte",
+  "entity_type": "Company",
+  "canonical_name": "Deloitte",
+  "short_description": "Global network of audit, consulting, tax, legal and advisory firms coordinated by Deloitte Touche Tohmatsu Limited (DTTL), a UK private company limited by guarantee, tracing its origins to William Welch Deloitte in 1845; one of the Big Four, it reported aggregate revenue of USD 74.5 billion for the fiscal year to 31 May 2026 with nearly 500,000 people in more than 150 countries and territories, and has cooperated with Startuprad.io.",
+  "canonical_url": "https://www.startuprad.io/entities/deloitte",
+  "preferred_citation_url": "https://www.startuprad.io/entities/deloitte",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/deloitte"
+  ],
+  "last_reviewed": "2026-11-09",
+  "schema_version": "0.1.0-draft"
+}

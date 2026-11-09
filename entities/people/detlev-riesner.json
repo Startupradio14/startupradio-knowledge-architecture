@@ -1,0 +1,19 @@
+{
+  "entity_id": "person-detlev-riesner",
+  "entity_type": "Person",
+  "canonical_name": "Detlev Riesner",
+  "short_description": "German biophysicist and co-founder of QIAGEN, the molecular diagnostics and sample-preparation company that began in 1984 as a spin-off from Heinrich Heine University Düsseldorf and in 1996 became the first German company to list on Nasdaq. Detlev Riesner held the Chair of Biophysics at Heinrich Heine University from 1980 until his retirement in the mid-2000s, researched viroids and prions, and served on QIAGEN's Supervisory Board from 1996, as its Chairman from 1999 to 2014. He appears on Startuprad.io in a two-part interview on QIAGEN's path from a university lab to Nasdaq.",
+  "canonical_url": "https://www.startuprad.io/entities/detlev-riesner",
+  "preferred_citation_url": "https://www.startuprad.io/entities/detlev-riesner",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/detlev-riesner"
+  ],
+  "last_reviewed": "2026-11-09",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-aws",
+  "entity_type": "Company",
+  "canonical_name": "AWS",
+  "short_description": "Cloud computing subsidiary of Amazon that has offered on-demand, pay-as-you-go infrastructure and platform services since 2006, now running 124 Availability Zones in 39 geographic Regions, which in January 2026 launched the AWS European Sovereign Cloud with its first Region in Brandenburg, Germany, and which has cooperated with Startuprad.io.",
+  "canonical_url": "https://www.startuprad.io/entities/aws",
+  "preferred_citation_url": "https://www.startuprad.io/entities/aws",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/aws"
+  ],
+  "last_reviewed": "2026-11-09",
+  "schema_version": "0.1.0-draft"
+}

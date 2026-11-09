@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-artificial-connect",
+  "entity_type": "Company",
+  "canonical_name": "Artificial Connect",
+  "short_description": "Hannover-based AI start-up, registered in 2019 as artificial connect GmbH, that built natural language generation tools for regional media houses, including automated local event announcements (ac.events) and text summaries (ac.textsum). Register records indicate the company was renamed Ventr Solutions GmbH by 2021; this record is historical.",
+  "canonical_url": "https://www.startuprad.io/entities/artificial-connect",
+  "preferred_citation_url": "https://www.startuprad.io/entities/artificial-connect",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/artificial-connect"
+  ],
+  "last_reviewed": "2026-11-09",
+  "schema_version": "0.1.0-draft"
+}

@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-capco",
+  "entity_type": "Company",
+  "canonical_name": "Capco",
+  "short_description": "Global management and technology consultancy for the financial services and energy industries, founded in Belgium in 1998 by Rob Heyvaert as The Capital Markets Company and headquartered in London. Owned by FIS from 2010 and majority-owned by Clayton, Dubilier & Rice from 2017, it was acquired by Wipro for USD 1.45 billion in a deal completed on 29 April 2021 and is led by Chief Executive Officer Anne-Marie (Annie) Rowland. Capco serves banking and payments, capital markets, insurance, wealth and asset management and energy clients. Capco has cooperated with Startuprad.io.",
+  "canonical_url": "https://www.startuprad.io/entities/capco",
+  "preferred_citation_url": "https://www.startuprad.io/entities/capco",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/capco"
+  ],
+  "last_reviewed": "2026-11-09",
+  "schema_version": "0.1.0-draft"
+}
