@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-capmo",
+  "entity_type": "Company",
+  "canonical_name": "Capmo",
+  "short_description": "Capmo is a Munich-based construction technology company, founded in 2018 by a team from CDTM and led by co-founder and CEO Florian Biller, that offers cloud-based project management software for construction and real estate firms. It raised a USD 30 million Series B led by Bessemer Venture Partners in 2021.",
+  "canonical_url": "https://www.startuprad.io/entities/capmo",
+  "preferred_citation_url": "https://www.startuprad.io/entities/capmo",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/capmo"
+  ],
+  "last_reviewed": "2026-11-09",
+  "schema_version": "0.1.0-draft"
+}

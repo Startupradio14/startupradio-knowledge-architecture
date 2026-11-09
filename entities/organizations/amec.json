@@ -1,0 +1,19 @@
+{
+  "entity_id": "organization-amec",
+  "entity_type": "Organization",
+  "canonical_name": "AMEC",
+  "short_description": "International professional association for media evaluation, communications research and media intelligence, founded in 1996, with members in more than 80 countries. AMEC convened the Barcelona Principles (2010, revised 2015 and 2020), publishes the free Integrated Evaluation Framework and in May 2026 launched GEO Principles for measuring AI-led communication.",
+  "canonical_url": "https://www.startuprad.io/entities/amec",
+  "preferred_citation_url": "https://www.startuprad.io/entities/amec",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/amec"
+  ],
+  "last_reviewed": "2026-11-09",
+  "schema_version": "0.1.0-draft"
+}

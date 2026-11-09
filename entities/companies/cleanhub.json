@@ -1,0 +1,19 @@
+{
+  "entity_id": "company-cleanhub",
+  "entity_type": "Company",
+  "canonical_name": "CleanHub",
+  "short_description": "CleanHub is a Berlin-based circular economy company, founded in January 2020 by Joel Tasche, Bosse Rothe and Florin Dinga, that lets consumer brands fund verified plastic waste collection in coastal regions of countries such as India and Indonesia. Investors include Lakestar, 468 Capital and Integra Partners.",
+  "canonical_url": "https://www.startuprad.io/entities/cleanhub",
+  "preferred_citation_url": "https://www.startuprad.io/entities/cleanhub",
+  "publication_level": 1,
+  "publication_status": "approved",
+  "canonical_page_status": "live",
+  "github_eligible": true,
+  "source_publication": "Startuprad.io",
+  "source_urls": [
+    "https://www.startuprad.io/entities",
+    "https://www.startuprad.io/entities/cleanhub"
+  ],
+  "last_reviewed": "2026-11-09",
+  "schema_version": "0.1.0-draft"
+}

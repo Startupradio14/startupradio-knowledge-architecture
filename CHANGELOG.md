@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+### Weekly sync — 2026-11-09
+
+- Synchronized the 100 Level I Basic cards currently exposed by the canonical Entity Intelligence hub.
+- Added five newly exposed records: AMEC, Artificial Connect, ByeAgain, Capmo, and CleanHub.
+- Withdrew five records no longer exposed by the hub: Deutsche Bahn AG, Deutsche Bank, Deutscher Startup Monitor, Diamond Foundry, and Dianovi.
+- Refreshed the review date on the 95 retained hub records and reviewed Startuprad.io `/llm` v4.20 updated 2026-11-06; its approved Level I identity description remains unchanged.
+- Confirmed T2 Unicorn Atlas pillar #51 remains beneath T1 pillar #41 and future Unicorn Atlas posts remain T3 spokes of #51.
+- Confirmed dormant pillars remain ineligible for routing and the Radio.co schedule remains dynamic at https://www.startup.radio/.
+
 ### Weekly sync — 2026-11-02
 
 - Synchronized the 100 Level I Basic cards currently exposed by the canonical Entity Intelligence hub.
